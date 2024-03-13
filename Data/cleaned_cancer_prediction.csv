@@ -1,0 +1,1001 @@
+Age_at_diagnosis,Gender,Smoking_status,Alcohol_intake,Physical_activity,Family_history,Medical_history,Cancer_type,Cancer_stage,Dukes_Stage
+29,male,former,light,high,yes,Respiratory Diseases,Mouth,III,C
+72,male,former,moderate,low,no,Respiratory Diseases,Brain,IV,D
+10,male,current,none,moderate,yes,Stroke,ovarian,II,B
+35,male,former,heavy,low,no,Stroke,Lymph,IV,D
+6,female,former,none,moderate,no,Thyroid,lung,IV,D
+73,male,never,heavy,high,yes,Kidney Disease,lung,I,A
+68,female,never,light,low,yes,Respiratory Diseases,ovarian,I,A
+9,female,never,heavy,high,no,Thyroid,lung,IV,D
+20,female,current,moderate,high,no,Tuberculosis,skin,IV,D
+65,female,never,heavy,low,no,hypertension,Lymph,I,A
+35,male,never,light,high,no,Thyroid,Lymph,IV,D
+32,female,former,none,moderate,yes,Alzheimers disease,prostate,III,C
+61,female,current,none,low,no,Kidney Disease,colon,IV,D
+74,female,current,none,low,no,Hypotension,ovarian,II,B
+25,female,former,moderate,low,no,Kidney Disease,Mouth,II,B
+45,male,former,heavy,low,yes,Kidney Disease,ovarian,II,B
+44,male,current,heavy,moderate,no,Hypotension,Blood,II,B
+78,male,current,light,moderate,no,Tuberculosis,prostate,I,A
+70,female,never,light,low,yes,diabetes,Cervical,II,B
+21,male,never,heavy,moderate,yes,Alzheimers disease,Cervical,III,C
+57,male,former,heavy,low,no,hypertension,lung,IV,D
+55,female,current,heavy,moderate,no,Thyroid,lung,IV,D
+43,male,former,light,moderate,no,Tuberculosis,Cervical,III,C
+41,male,never,light,high,yes,Alzheimers disease,ovarian,I,A
+33,female,current,heavy,high,no,Kidney Disease,lung,II,B
+79,female,former,none,high,no,hypertension,colon,III,C
+12,female,former,light,moderate,yes,Tuberculosis,Lymph,II,B
+29,female,former,heavy,high,no,Thyroid,Blood,II,B
+70,male,former,heavy,low,yes,Hypotension,Cervical,III,C
+36,male,current,moderate,low,no,diabetes,Lymph,I,A
+68,male,never,light,high,yes,Tuberculosis,Brain,I,A
+10,female,former,light,moderate,no,Hypotension,Mouth,IV,D
+37,male,former,moderate,high,yes,hypertension,Brain,III,C
+23,male,current,heavy,high,no,Asthma,lung,I,A
+65,female,current,heavy,low,no,Thyroid,Lymph,I,A
+41,male,former,none,moderate,yes,Tuberculosis,Blood,II,B
+49,male,current,none,moderate,yes,hypertension,Blood,I,A
+16,male,current,none,low,yes,Kidney Disease,Brain,II,B
+41,female,former,moderate,low,yes,Alzheimers disease,ovarian,II,B
+60,female,former,none,moderate,yes,Hypotension,skin,III,C
+15,male,current,none,low,no,Asthma,breast,I,A
+77,male,former,heavy,moderate,yes,Stroke,Cervical,IV,D
+11,male,never,light,high,yes,Thyroid,ovarian,IV,D
+46,male,never,none,high,yes,Respiratory Diseases,lung,II,B
+67,female,current,none,low,no,Tuberculosis,ovarian,I,A
+51,female,never,none,high,yes,Thyroid,lung,II,B
+66,female,never,heavy,low,yes,Alzheimers disease,Brain,II,B
+33,male,current,none,high,yes,diabetes,Brain,I,A
+17,female,current,light,low,no,diabetes,Mouth,I,A
+57,female,former,heavy,low,no,Kidney Disease,colon,II,B
+58,female,current,light,low,yes,Tuberculosis,Brain,I,A
+36,female,never,none,moderate,no,Tuberculosis,ovarian,II,B
+44,male,former,heavy,high,no,Asthma,Lymph,II,B
+18,male,former,moderate,high,no,Kidney Disease,prostate,IV,D
+47,male,never,light,low,no,hypertension,Cervical,IV,D
+14,female,current,moderate,moderate,no,Tuberculosis,skin,IV,D
+33,male,former,light,high,yes,Kidney Disease,Mouth,I,A
+23,male,current,heavy,moderate,yes,Respiratory Diseases,Blood,IV,D
+61,female,former,moderate,moderate,no,Kidney Disease,lung,I,A
+39,female,current,heavy,moderate,no,Kidney Disease,Mouth,II,B
+55,male,never,moderate,low,no,Thyroid,Blood,II,B
+38,female,never,none,high,no,Kidney Disease,Mouth,IV,D
+43,male,former,moderate,low,no,Stroke,Cervical,I,A
+45,male,former,none,low,no,Asthma,ovarian,I,A
+36,male,current,moderate,high,no,Thyroid,Blood,II,B
+79,female,former,moderate,low,yes,Alzheimers disease,prostate,II,B
+73,female,never,moderate,moderate,yes,Kidney Disease,Lymph,IV,D
+59,female,never,heavy,moderate,yes,Hypotension,lung,I,A
+65,male,current,heavy,moderate,no,hypertension,skin,III,C
+14,male,current,moderate,high,yes,Asthma,breast,IV,D
+19,female,current,light,high,yes,Asthma,prostate,III,C
+74,female,current,heavy,high,no,Alzheimers disease,colon,II,B
+46,female,current,light,low,yes,Tuberculosis,Cervical,II,B
+16,male,never,moderate,moderate,no,Hypotension,ovarian,IV,D
+17,female,current,heavy,moderate,yes,Respiratory Diseases,Brain,III,C
+48,female,current,heavy,high,yes,hypertension,Cervical,II,B
+46,male,former,none,low,yes,Tuberculosis,Brain,I,A
+25,female,former,heavy,high,no,Tuberculosis,Lymph,II,B
+6,female,never,light,low,yes,Tuberculosis,breast,II,B
+31,male,never,none,moderate,no,Hypotension,Mouth,IV,D
+31,female,never,heavy,low,no,Kidney Disease,Cervical,III,C
+54,female,current,heavy,high,yes,Stroke,Lymph,IV,D
+34,male,former,heavy,high,no,Alzheimers disease,Lymph,III,C
+33,female,never,heavy,low,yes,Tuberculosis,Blood,IV,D
+12,male,former,heavy,high,no,Alzheimers disease,lung,II,B
+62,male,former,none,high,no,Stroke,Blood,IV,D
+64,female,former,heavy,low,yes,Respiratory Diseases,lung,III,C
+67,male,current,light,moderate,yes,hypertension,skin,I,A
+16,female,never,heavy,high,yes,diabetes,skin,IV,D
+20,male,never,none,high,yes,hypertension,Cervical,III,C
+54,female,never,light,high,no,Asthma,Cervical,III,C
+65,female,never,moderate,moderate,yes,diabetes,Cervical,III,C
+5,male,current,heavy,moderate,yes,Kidney Disease,Lymph,I,A
+13,male,never,none,moderate,no,Alzheimers disease,skin,I,A
+65,female,former,none,high,no,hypertension,Lymph,I,A
+51,female,former,heavy,low,no,Kidney Disease,breast,IV,D
+77,female,former,heavy,low,no,Tuberculosis,skin,I,A
+44,male,former,light,low,no,Hypotension,lung,I,A
+47,male,current,none,high,yes,Asthma,skin,III,C
+22,female,current,moderate,low,no,hypertension,prostate,II,B
+76,male,never,heavy,high,yes,Asthma,lung,II,B
+29,male,former,moderate,high,yes,diabetes,skin,I,A
+28,female,former,none,moderate,no,Kidney Disease,breast,I,A
+52,female,former,none,moderate,no,Alzheimers disease,ovarian,II,B
+23,male,never,none,high,yes,Hypotension,colon,IV,D
+60,male,former,moderate,low,no,Alzheimers disease,Lymph,I,A
+30,female,current,moderate,low,yes,Asthma,Mouth,I,A
+77,male,current,none,moderate,yes,Kidney Disease,Mouth,IV,D
+42,female,never,moderate,moderate,yes,Alzheimers disease,Blood,I,A
+19,female,current,heavy,low,yes,Tuberculosis,ovarian,I,A
+43,female,former,heavy,low,no,hypertension,skin,II,B
+26,male,former,moderate,moderate,no,hypertension,prostate,II,B
+60,male,former,none,high,yes,Alzheimers disease,lung,IV,D
+30,female,never,heavy,high,no,diabetes,Mouth,IV,D
+63,male,former,heavy,moderate,no,Stroke,Mouth,II,B
+70,female,former,moderate,moderate,yes,hypertension,ovarian,I,A
+69,female,never,heavy,low,yes,Stroke,Lymph,II,B
+5,male,current,none,high,yes,Kidney Disease,Mouth,III,C
+42,male,never,moderate,moderate,no,hypertension,skin,IV,D
+27,female,never,moderate,high,no,Alzheimers disease,Brain,I,A
+12,male,current,heavy,moderate,yes,hypertension,prostate,IV,D
+15,male,former,light,moderate,no,Respiratory Diseases,skin,IV,D
+19,male,former,none,moderate,yes,hypertension,Mouth,III,C
+68,female,never,none,moderate,no,Hypotension,skin,I,A
+67,male,never,moderate,low,no,Tuberculosis,Brain,IV,D
+56,male,current,heavy,low,no,Respiratory Diseases,Lymph,II,B
+71,male,current,moderate,moderate,yes,Stroke,Cervical,IV,D
+58,male,never,none,low,no,Hypotension,Mouth,II,B
+41,female,former,heavy,low,no,Stroke,Lymph,I,A
+12,male,never,light,high,no,Alzheimers disease,colon,II,B
+5,male,current,heavy,high,no,Kidney Disease,skin,IV,D
+32,male,former,heavy,moderate,no,Asthma,Cervical,III,C
+77,female,current,heavy,high,no,diabetes,Blood,I,A
+45,female,former,moderate,moderate,yes,Hypotension,Mouth,II,B
+6,male,never,heavy,low,no,Hypotension,Blood,II,B
+30,female,former,heavy,low,yes,Hypotension,colon,IV,D
+58,female,former,heavy,moderate,yes,Tuberculosis,Blood,IV,D
+37,male,never,moderate,high,yes,hypertension,skin,III,C
+54,male,current,light,high,no,Asthma,Cervical,IV,D
+30,female,never,heavy,high,yes,Thyroid,Cervical,I,A
+12,male,current,light,high,no,hypertension,breast,I,A
+77,male,former,heavy,high,yes,Stroke,Brain,I,A
+64,female,current,heavy,moderate,no,Stroke,colon,I,A
+49,male,former,light,moderate,yes,Hypotension,breast,II,B
+8,male,former,heavy,moderate,yes,hypertension,prostate,IV,D
+8,male,current,moderate,moderate,yes,Tuberculosis,Cervical,IV,D
+78,male,former,moderate,low,yes,Tuberculosis,breast,II,B
+75,male,current,none,high,no,Stroke,lung,IV,D
+13,male,current,moderate,moderate,yes,diabetes,Brain,I,A
+51,male,former,none,low,no,Hypotension,ovarian,II,B
+70,female,never,moderate,low,no,diabetes,Brain,IV,D
+11,female,never,moderate,high,no,Respiratory Diseases,colon,III,C
+60,female,never,none,moderate,yes,Respiratory Diseases,lung,IV,D
+5,female,never,none,low,no,Kidney Disease,prostate,IV,D
+19,male,former,light,moderate,no,hypertension,Mouth,III,C
+53,male,former,moderate,high,no,diabetes,skin,II,B
+13,male,current,light,moderate,no,Alzheimers disease,prostate,III,C
+74,female,former,light,high,no,Kidney Disease,breast,II,B
+66,female,current,none,moderate,no,Thyroid,Cervical,III,C
+8,female,current,heavy,moderate,yes,Tuberculosis,skin,I,A
+21,female,current,heavy,high,no,Hypotension,colon,I,A
+38,female,current,moderate,high,yes,Asthma,Mouth,I,A
+40,female,current,heavy,low,no,Tuberculosis,Blood,II,B
+25,female,never,heavy,moderate,no,Stroke,Cervical,IV,D
+60,male,former,none,high,yes,Stroke,Mouth,I,A
+11,male,former,heavy,high,yes,diabetes,lung,I,A
+55,female,current,none,moderate,yes,Thyroid,Cervical,III,C
+68,male,current,moderate,high,no,Stroke,skin,II,B
+45,female,current,light,moderate,yes,Hypotension,Blood,III,C
+68,female,former,light,moderate,yes,Stroke,Lymph,IV,D
+29,male,former,moderate,high,yes,hypertension,ovarian,II,B
+37,female,never,heavy,low,yes,diabetes,colon,II,B
+33,male,never,light,moderate,no,Hypotension,colon,II,B
+64,female,never,light,high,yes,Tuberculosis,breast,II,B
+14,male,never,moderate,moderate,no,Hypotension,colon,II,B
+41,female,current,light,low,no,hypertension,colon,I,A
+48,female,current,none,moderate,yes,Thyroid,Brain,I,A
+20,female,never,moderate,low,no,Asthma,colon,III,C
+75,female,never,none,high,no,Kidney Disease,skin,III,C
+67,male,current,none,high,no,diabetes,breast,II,B
+8,male,current,light,moderate,yes,Tuberculosis,Lymph,III,C
+39,male,former,heavy,high,yes,Thyroid,ovarian,II,B
+32,male,current,heavy,high,yes,diabetes,prostate,III,C
+5,female,never,moderate,moderate,yes,diabetes,ovarian,III,C
+9,female,former,light,high,yes,diabetes,Cervical,II,B
+31,male,never,heavy,high,no,Hypotension,lung,I,A
+79,male,current,none,low,no,Hypotension,breast,II,B
+52,male,former,none,moderate,no,Thyroid,prostate,II,B
+77,female,current,heavy,moderate,yes,Tuberculosis,Mouth,III,C
+26,female,former,none,high,yes,hypertension,lung,IV,D
+11,male,never,none,moderate,no,Kidney Disease,skin,IV,D
+79,female,former,heavy,moderate,yes,Asthma,Brain,II,B
+44,male,never,none,high,no,diabetes,skin,IV,D
+38,male,former,light,low,no,Hypotension,lung,II,B
+30,female,current,heavy,low,no,Kidney Disease,Brain,II,B
+55,male,current,moderate,low,no,Asthma,Cervical,II,B
+12,male,never,moderate,moderate,yes,hypertension,Lymph,II,B
+25,male,former,none,high,no,Kidney Disease,ovarian,IV,D
+40,female,former,light,high,no,Stroke,Blood,III,C
+61,male,current,moderate,moderate,yes,Respiratory Diseases,skin,II,B
+35,female,never,none,high,yes,Respiratory Diseases,Lymph,IV,D
+59,male,current,heavy,high,no,Hypotension,skin,IV,D
+65,male,former,heavy,moderate,yes,Asthma,colon,III,C
+25,female,never,none,low,no,hypertension,lung,III,C
+20,female,current,light,high,no,diabetes,Cervical,III,C
+10,male,never,moderate,low,yes,diabetes,Brain,III,C
+50,female,current,heavy,high,yes,hypertension,Cervical,III,C
+43,male,former,light,low,yes,Thyroid,lung,I,A
+66,male,former,none,low,yes,Thyroid,colon,II,B
+27,male,former,light,low,yes,Tuberculosis,colon,III,C
+17,female,never,heavy,moderate,no,Thyroid,Blood,III,C
+16,female,former,none,moderate,no,Respiratory Diseases,lung,I,A
+69,male,former,heavy,high,no,Tuberculosis,prostate,IV,D
+77,male,former,heavy,moderate,no,Kidney Disease,Brain,I,A
+7,male,never,moderate,low,no,Respiratory Diseases,Mouth,II,B
+34,male,former,light,high,no,Kidney Disease,Mouth,II,B
+9,female,never,none,low,no,Thyroid,ovarian,I,A
+32,male,current,heavy,high,no,diabetes,skin,III,C
+16,male,never,none,moderate,yes,Respiratory Diseases,skin,III,C
+54,female,never,light,moderate,yes,diabetes,Mouth,I,A
+75,female,former,moderate,low,yes,Asthma,prostate,III,C
+34,female,current,none,moderate,no,Kidney Disease,prostate,IV,D
+74,female,current,none,low,no,Stroke,skin,I,A
+51,female,never,heavy,low,no,Hypotension,skin,IV,D
+13,female,former,heavy,high,yes,Tuberculosis,colon,III,C
+53,female,former,moderate,low,yes,Tuberculosis,breast,IV,D
+47,male,current,light,low,no,Hypotension,Blood,III,C
+58,male,current,light,high,yes,Thyroid,prostate,I,A
+48,female,current,moderate,moderate,yes,Tuberculosis,Mouth,I,A
+10,female,current,light,moderate,no,Respiratory Diseases,Mouth,I,A
+74,male,never,light,low,no,Alzheimers disease,skin,III,C
+63,male,never,light,high,yes,Tuberculosis,Blood,II,B
+32,female,former,moderate,low,yes,diabetes,colon,IV,D
+41,female,never,heavy,moderate,yes,hypertension,skin,IV,D
+21,female,current,heavy,low,yes,Asthma,skin,III,C
+50,male,current,light,high,no,Alzheimers disease,ovarian,II,B
+59,female,never,none,moderate,no,Alzheimers disease,Lymph,III,C
+11,female,current,moderate,moderate,no,Alzheimers disease,Brain,IV,D
+26,female,current,none,moderate,yes,Kidney Disease,breast,I,A
+21,male,never,none,moderate,no,Alzheimers disease,Blood,II,B
+28,female,never,heavy,moderate,no,Asthma,prostate,I,A
+13,female,current,none,high,no,diabetes,Cervical,IV,D
+26,male,current,light,moderate,yes,Asthma,ovarian,III,C
+60,male,former,light,high,yes,Asthma,skin,IV,D
+73,female,never,moderate,low,no,Alzheimers disease,Lymph,I,A
+42,male,never,light,moderate,yes,diabetes,lung,III,C
+20,male,former,heavy,low,no,hypertension,Lymph,III,C
+76,male,former,moderate,moderate,yes,Thyroid,Lymph,I,A
+69,female,former,light,high,yes,Alzheimers disease,Cervical,I,A
+25,male,former,light,high,no,Alzheimers disease,colon,III,C
+72,male,former,none,high,no,Asthma,Cervical,IV,D
+63,female,never,heavy,moderate,no,Hypotension,Blood,II,B
+64,female,former,light,moderate,yes,diabetes,Mouth,IV,D
+50,female,never,heavy,low,yes,Hypotension,Blood,IV,D
+5,male,never,moderate,moderate,yes,Alzheimers disease,breast,IV,D
+13,male,former,heavy,low,no,Hypotension,Blood,III,C
+76,female,never,moderate,low,yes,Kidney Disease,skin,II,B
+13,male,never,heavy,moderate,no,Asthma,Brain,III,C
+39,female,never,none,high,no,Thyroid,Blood,III,C
+44,male,current,moderate,moderate,no,Asthma,Mouth,I,A
+20,male,current,light,moderate,no,Tuberculosis,Lymph,I,A
+21,female,current,none,high,no,Alzheimers disease,Cervical,II,B
+61,female,former,none,low,no,Stroke,ovarian,II,B
+11,male,never,moderate,high,no,Asthma,Lymph,II,B
+57,female,former,heavy,low,yes,Tuberculosis,breast,IV,D
+28,male,current,none,low,yes,Thyroid,ovarian,II,B
+30,male,current,moderate,low,yes,Kidney Disease,skin,III,C
+53,female,former,none,moderate,no,hypertension,lung,II,B
+14,male,current,light,moderate,yes,Asthma,lung,II,B
+16,female,never,light,high,no,Tuberculosis,ovarian,II,B
+35,male,never,moderate,moderate,no,Thyroid,breast,III,C
+76,male,never,moderate,moderate,yes,Hypotension,colon,I,A
+9,female,current,moderate,high,yes,Thyroid,Lymph,I,A
+14,male,former,moderate,moderate,yes,Kidney Disease,Lymph,III,C
+79,female,current,heavy,low,no,Respiratory Diseases,prostate,III,C
+8,male,never,heavy,moderate,yes,Alzheimers disease,ovarian,III,C
+39,male,current,light,moderate,yes,Respiratory Diseases,Brain,IV,D
+19,male,current,heavy,low,no,Thyroid,prostate,II,B
+61,female,never,heavy,low,no,Asthma,Mouth,II,B
+31,female,former,none,low,no,Respiratory Diseases,Brain,I,A
+71,female,former,heavy,low,yes,Thyroid,prostate,III,C
+62,female,former,none,low,no,Alzheimers disease,colon,IV,D
+7,male,current,light,moderate,no,Asthma,Brain,I,A
+22,female,never,light,moderate,no,Respiratory Diseases,Brain,I,A
+29,female,current,heavy,high,yes,Thyroid,Lymph,II,B
+71,female,current,moderate,moderate,yes,Thyroid,Mouth,IV,D
+63,male,former,heavy,moderate,no,hypertension,lung,III,C
+50,female,current,moderate,low,yes,Asthma,ovarian,I,A
+74,male,former,moderate,moderate,yes,Thyroid,breast,III,C
+37,male,former,light,moderate,no,Tuberculosis,lung,III,C
+69,female,never,none,low,yes,Asthma,lung,I,A
+33,male,current,none,moderate,yes,hypertension,lung,I,A
+37,male,current,none,high,no,Hypotension,Brain,I,A
+29,male,never,none,high,yes,Asthma,colon,IV,D
+16,female,current,none,moderate,no,Asthma,ovarian,III,C
+11,female,never,heavy,high,yes,hypertension,prostate,IV,D
+66,female,former,heavy,low,yes,diabetes,Blood,III,C
+44,male,former,moderate,moderate,yes,Tuberculosis,colon,II,B
+74,female,former,light,high,yes,Stroke,colon,I,A
+6,male,former,heavy,high,no,Tuberculosis,Lymph,IV,D
+21,female,former,heavy,low,no,Asthma,colon,IV,D
+15,male,former,light,low,yes,Stroke,prostate,III,C
+24,male,current,moderate,high,no,Respiratory Diseases,Mouth,IV,D
+16,female,never,heavy,moderate,yes,hypertension,colon,II,B
+79,female,never,moderate,low,yes,diabetes,skin,IV,D
+35,female,current,heavy,high,yes,Thyroid,breast,I,A
+46,male,former,heavy,high,no,Hypotension,Blood,I,A
+66,male,never,light,low,no,Asthma,lung,IV,D
+47,female,former,none,high,no,Thyroid,prostate,I,A
+35,male,never,light,low,yes,Thyroid,colon,II,B
+52,male,former,heavy,low,no,Asthma,colon,III,C
+31,male,former,moderate,low,no,Asthma,ovarian,I,A
+32,male,never,none,high,yes,Tuberculosis,breast,I,A
+56,male,current,none,low,no,diabetes,skin,II,B
+7,male,current,light,high,no,diabetes,Mouth,IV,D
+6,male,former,heavy,high,yes,Alzheimers disease,breast,IV,D
+27,male,current,light,moderate,yes,Thyroid,colon,I,A
+33,female,current,light,low,no,Kidney Disease,Cervical,II,B
+50,female,former,heavy,low,yes,Asthma,Mouth,II,B
+52,male,never,moderate,moderate,no,Kidney Disease,skin,I,A
+54,male,former,none,low,no,Alzheimers disease,Mouth,IV,D
+71,female,former,none,high,yes,Stroke,skin,II,B
+59,male,former,heavy,moderate,yes,Stroke,breast,III,C
+22,female,current,heavy,low,yes,Stroke,ovarian,II,B
+66,female,former,light,high,yes,Hypotension,ovarian,I,A
+7,female,never,light,low,yes,Asthma,Brain,II,B
+27,male,never,moderate,high,no,Asthma,skin,IV,D
+46,male,former,light,high,yes,Tuberculosis,breast,III,C
+35,male,never,none,high,yes,Asthma,prostate,I,A
+64,male,current,none,low,yes,diabetes,Mouth,I,A
+73,male,never,light,high,yes,diabetes,colon,II,B
+22,male,never,heavy,low,no,hypertension,breast,III,C
+46,male,current,none,moderate,yes,Tuberculosis,breast,II,B
+64,female,never,light,low,no,Alzheimers disease,Lymph,III,C
+78,female,current,heavy,high,no,Respiratory Diseases,colon,IV,D
+9,female,current,light,low,no,Hypotension,Brain,IV,D
+67,male,former,heavy,low,yes,Hypotension,Lymph,I,A
+63,female,current,none,moderate,yes,Asthma,Lymph,III,C
+33,female,current,moderate,high,yes,Thyroid,ovarian,III,C
+43,female,former,none,moderate,no,Respiratory Diseases,Cervical,II,B
+23,male,current,light,high,yes,Stroke,Brain,III,C
+74,female,never,heavy,moderate,yes,Alzheimers disease,colon,I,A
+46,female,current,moderate,high,no,hypertension,ovarian,I,A
+41,male,current,none,low,no,Kidney Disease,Lymph,III,C
+23,female,current,moderate,high,yes,Stroke,skin,II,B
+58,female,never,heavy,low,no,hypertension,breast,I,A
+25,male,never,none,high,yes,Asthma,colon,II,B
+53,male,never,heavy,moderate,no,Stroke,Lymph,II,B
+64,male,current,heavy,low,yes,Asthma,Mouth,II,B
+26,female,current,moderate,low,no,hypertension,Brain,I,A
+58,female,former,heavy,moderate,yes,hypertension,Brain,III,C
+59,female,former,light,high,yes,Kidney Disease,breast,III,C
+14,male,former,none,high,no,hypertension,Lymph,I,A
+33,female,current,none,moderate,yes,Hypotension,Blood,II,B
+19,male,never,moderate,moderate,no,diabetes,lung,III,C
+25,male,current,heavy,low,yes,Hypotension,lung,I,A
+21,male,never,moderate,low,no,Tuberculosis,Brain,IV,D
+52,male,former,heavy,low,no,diabetes,Mouth,IV,D
+40,male,current,light,high,yes,Hypotension,breast,II,B
+66,female,former,none,low,yes,Asthma,Blood,IV,D
+7,male,current,light,moderate,no,Thyroid,breast,I,A
+37,male,never,moderate,high,yes,Alzheimers disease,prostate,II,B
+61,male,current,moderate,low,no,Asthma,Blood,IV,D
+26,female,current,heavy,low,yes,Alzheimers disease,Cervical,III,C
+77,female,former,moderate,moderate,yes,Alzheimers disease,breast,IV,D
+63,male,never,light,moderate,no,Respiratory Diseases,Lymph,IV,D
+5,female,former,moderate,high,yes,Asthma,Blood,I,A
+46,male,current,heavy,high,no,Thyroid,Mouth,III,C
+60,female,never,heavy,high,no,Asthma,Brain,III,C
+64,female,former,light,moderate,yes,Kidney Disease,breast,II,B
+47,female,former,none,high,no,Alzheimers disease,skin,III,C
+15,male,former,moderate,moderate,yes,diabetes,Lymph,II,B
+50,female,current,moderate,moderate,no,Asthma,prostate,I,A
+76,female,current,heavy,moderate,no,Hypotension,prostate,IV,D
+49,male,never,none,moderate,yes,Hypotension,Lymph,III,C
+9,female,former,light,high,no,Tuberculosis,skin,II,B
+56,male,never,none,low,yes,hypertension,Lymph,II,B
+54,female,current,light,low,yes,Asthma,Lymph,IV,D
+77,female,former,moderate,high,yes,Kidney Disease,breast,III,C
+35,male,current,light,moderate,no,Stroke,Lymph,III,C
+68,male,current,heavy,moderate,no,Hypotension,Brain,II,B
+37,female,never,moderate,moderate,yes,Tuberculosis,skin,IV,D
+72,male,former,moderate,high,no,Asthma,breast,II,B
+26,female,former,moderate,moderate,no,Respiratory Diseases,skin,III,C
+18,male,former,none,moderate,no,Respiratory Diseases,Brain,III,C
+20,female,former,moderate,moderate,yes,Stroke,Brain,II,B
+26,male,former,heavy,high,yes,Asthma,Brain,I,A
+76,female,current,moderate,high,no,Hypotension,Brain,II,B
+46,male,current,light,low,yes,Asthma,Brain,I,A
+45,male,current,none,low,no,Asthma,ovarian,IV,D
+17,male,former,heavy,high,no,Kidney Disease,ovarian,III,C
+38,male,current,heavy,moderate,yes,Stroke,ovarian,III,C
+68,female,current,none,high,yes,Stroke,prostate,I,A
+73,female,current,heavy,moderate,no,Alzheimers disease,Mouth,I,A
+28,male,current,moderate,moderate,no,diabetes,prostate,II,B
+70,female,former,none,low,yes,Alzheimers disease,skin,I,A
+79,male,current,moderate,low,yes,Respiratory Diseases,Blood,III,C
+31,male,former,moderate,low,no,Stroke,colon,II,B
+76,male,former,light,moderate,no,Stroke,ovarian,II,B
+9,male,current,none,high,no,Thyroid,Lymph,IV,D
+49,female,never,heavy,high,no,Alzheimers disease,ovarian,II,B
+52,male,current,heavy,low,no,Alzheimers disease,colon,IV,D
+16,male,former,none,low,no,diabetes,lung,I,A
+48,female,never,light,moderate,no,Hypotension,Cervical,III,C
+68,male,never,moderate,high,yes,Alzheimers disease,lung,IV,D
+58,female,current,moderate,moderate,no,hypertension,Blood,III,C
+51,male,never,heavy,low,no,diabetes,skin,II,B
+35,female,current,heavy,moderate,yes,Respiratory Diseases,colon,II,B
+35,male,former,heavy,high,no,Alzheimers disease,skin,I,A
+53,male,current,moderate,high,no,Stroke,Cervical,II,B
+78,male,current,light,high,yes,Hypotension,Blood,II,B
+13,female,former,moderate,low,yes,Stroke,Mouth,IV,D
+47,female,never,light,low,yes,Respiratory Diseases,lung,IV,D
+15,female,never,heavy,moderate,yes,hypertension,prostate,I,A
+24,male,current,none,moderate,no,Respiratory Diseases,Brain,II,B
+42,female,current,moderate,low,yes,Stroke,breast,IV,D
+29,male,never,heavy,low,no,diabetes,skin,II,B
+71,female,current,moderate,high,no,Thyroid,Cervical,IV,D
+24,male,former,light,moderate,no,Hypotension,Blood,II,B
+61,male,former,moderate,low,no,Asthma,ovarian,I,A
+7,female,former,light,high,no,diabetes,breast,I,A
+78,female,never,moderate,low,no,Tuberculosis,prostate,I,A
+6,female,never,light,high,no,Alzheimers disease,lung,III,C
+9,male,former,light,low,yes,Kidney Disease,prostate,IV,D
+53,female,former,none,moderate,no,Thyroid,breast,II,B
+47,female,current,light,low,yes,Alzheimers disease,Mouth,IV,D
+64,male,never,none,moderate,yes,hypertension,lung,II,B
+37,male,never,none,low,no,Thyroid,lung,III,C
+14,female,current,light,moderate,yes,Stroke,ovarian,III,C
+62,male,former,none,moderate,no,Tuberculosis,ovarian,III,C
+64,female,current,heavy,high,no,Asthma,Blood,I,A
+43,female,current,moderate,low,no,diabetes,breast,I,A
+76,male,former,moderate,high,yes,Kidney Disease,prostate,II,B
+76,female,former,heavy,high,yes,Alzheimers disease,prostate,I,A
+57,male,current,light,low,yes,Tuberculosis,breast,III,C
+79,male,never,none,high,yes,Tuberculosis,prostate,III,C
+65,female,former,heavy,moderate,yes,Alzheimers disease,Cervical,I,A
+61,female,former,heavy,low,no,Stroke,Cervical,I,A
+26,female,current,light,high,no,Stroke,lung,I,A
+52,male,never,light,high,yes,hypertension,prostate,III,C
+36,female,never,moderate,moderate,no,Alzheimers disease,skin,II,B
+43,male,current,heavy,high,no,Alzheimers disease,lung,IV,D
+49,female,current,none,high,no,diabetes,skin,I,A
+13,female,never,moderate,moderate,yes,hypertension,prostate,III,C
+27,female,never,heavy,moderate,yes,Tuberculosis,Brain,II,B
+60,male,current,heavy,low,no,diabetes,Lymph,IV,D
+24,female,current,heavy,low,yes,Stroke,Lymph,I,A
+39,male,never,heavy,low,no,Tuberculosis,Lymph,II,B
+56,female,former,heavy,high,yes,Alzheimers disease,lung,IV,D
+72,female,former,light,high,no,Respiratory Diseases,Mouth,III,C
+62,female,current,moderate,high,no,Kidney Disease,skin,III,C
+42,female,current,heavy,low,no,diabetes,skin,III,C
+20,female,former,light,high,no,Hypotension,ovarian,I,A
+57,female,current,light,moderate,no,Thyroid,Cervical,I,A
+41,female,former,heavy,moderate,yes,Hypotension,skin,I,A
+10,female,never,none,moderate,yes,diabetes,breast,III,C
+17,female,current,moderate,high,no,Asthma,Mouth,II,B
+73,male,never,heavy,low,yes,hypertension,prostate,I,A
+50,male,never,moderate,low,no,Respiratory Diseases,prostate,IV,D
+28,female,current,light,high,no,diabetes,Cervical,IV,D
+79,male,never,moderate,high,no,Asthma,breast,I,A
+31,male,current,none,low,yes,Alzheimers disease,colon,II,B
+59,male,former,heavy,moderate,no,hypertension,Cervical,IV,D
+63,female,former,moderate,moderate,no,Alzheimers disease,Lymph,IV,D
+69,female,current,moderate,moderate,no,Thyroid,ovarian,IV,D
+40,male,former,none,high,yes,Stroke,ovarian,II,B
+67,male,never,heavy,moderate,no,diabetes,skin,I,A
+32,female,never,moderate,low,no,Alzheimers disease,Blood,I,A
+23,female,former,none,low,yes,Asthma,Blood,I,A
+17,female,current,none,low,no,Kidney Disease,Mouth,II,B
+19,male,former,moderate,moderate,no,hypertension,Cervical,IV,D
+18,male,current,light,low,no,Tuberculosis,Cervical,IV,D
+13,female,current,heavy,moderate,no,Asthma,Cervical,III,C
+47,female,current,moderate,moderate,no,diabetes,Lymph,III,C
+20,female,former,light,moderate,yes,hypertension,Cervical,III,C
+38,male,never,none,moderate,yes,hypertension,colon,III,C
+42,female,former,moderate,moderate,no,Thyroid,Blood,I,A
+29,female,never,none,moderate,no,Kidney Disease,colon,IV,D
+60,female,former,light,low,yes,Hypotension,Blood,I,A
+33,male,never,moderate,high,no,Stroke,Mouth,II,B
+54,male,current,none,moderate,yes,Thyroid,breast,III,C
+19,male,current,heavy,moderate,no,Kidney Disease,Cervical,I,A
+71,male,current,light,moderate,no,Asthma,Mouth,II,B
+69,male,current,light,low,no,Respiratory Diseases,Lymph,I,A
+61,male,former,heavy,moderate,yes,Stroke,colon,IV,D
+17,male,current,heavy,moderate,no,Respiratory Diseases,lung,I,A
+25,male,never,none,moderate,yes,diabetes,Brain,I,A
+29,female,former,heavy,low,no,Stroke,colon,II,B
+44,male,current,moderate,low,yes,hypertension,breast,III,C
+62,female,former,heavy,low,yes,Stroke,colon,IV,D
+54,male,current,light,high,no,diabetes,colon,I,A
+39,female,current,none,high,no,Kidney Disease,Mouth,I,A
+71,male,former,heavy,low,no,Asthma,skin,III,C
+22,male,never,heavy,moderate,yes,hypertension,Brain,I,A
+12,male,former,moderate,moderate,no,diabetes,breast,III,C
+33,female,never,none,high,yes,diabetes,Brain,III,C
+23,female,never,moderate,low,yes,hypertension,Cervical,IV,D
+60,female,never,none,moderate,yes,diabetes,colon,II,B
+63,female,never,none,moderate,no,Kidney Disease,ovarian,IV,D
+54,male,never,light,low,no,Kidney Disease,prostate,III,C
+69,male,never,moderate,low,yes,Alzheimers disease,Brain,IV,D
+52,female,never,light,high,yes,Stroke,skin,IV,D
+67,female,current,heavy,moderate,no,Tuberculosis,prostate,IV,D
+33,male,current,heavy,low,yes,Respiratory Diseases,Blood,II,B
+7,male,former,heavy,moderate,no,Kidney Disease,lung,II,B
+58,female,never,heavy,low,yes,diabetes,Cervical,I,A
+46,female,current,none,moderate,no,Respiratory Diseases,lung,IV,D
+13,male,current,light,low,no,Asthma,breast,I,A
+77,male,never,none,low,no,Kidney Disease,Mouth,IV,D
+12,female,current,heavy,high,no,hypertension,skin,III,C
+8,male,current,none,high,yes,Asthma,lung,III,C
+10,male,never,moderate,low,no,Kidney Disease,colon,III,C
+34,male,current,heavy,low,yes,diabetes,colon,II,B
+8,male,former,light,low,no,Thyroid,lung,III,C
+15,female,former,heavy,moderate,no,hypertension,colon,III,C
+31,male,never,light,moderate,yes,diabetes,Cervical,III,C
+14,female,never,heavy,moderate,no,Kidney Disease,colon,I,A
+72,male,former,none,high,yes,Alzheimers disease,prostate,III,C
+18,male,former,heavy,moderate,no,Tuberculosis,colon,IV,D
+40,female,never,light,moderate,no,hypertension,ovarian,IV,D
+7,female,never,moderate,low,no,Tuberculosis,Blood,IV,D
+41,female,current,moderate,moderate,yes,Respiratory Diseases,lung,III,C
+31,female,never,moderate,low,no,Stroke,breast,IV,D
+11,male,former,none,high,yes,Asthma,Blood,II,B
+21,male,never,none,moderate,yes,Asthma,ovarian,I,A
+23,male,former,moderate,high,yes,Asthma,ovarian,III,C
+28,male,former,heavy,high,no,Hypotension,breast,I,A
+75,female,current,none,high,no,Stroke,Brain,III,C
+47,female,former,none,low,yes,Alzheimers disease,Lymph,II,B
+57,female,former,heavy,high,no,Stroke,Cervical,I,A
+25,female,never,heavy,moderate,no,Respiratory Diseases,Cervical,III,C
+38,male,never,heavy,moderate,yes,Asthma,lung,IV,D
+70,male,never,none,moderate,yes,Thyroid,Blood,III,C
+65,female,current,heavy,high,no,Kidney Disease,skin,II,B
+18,male,never,moderate,low,yes,diabetes,Blood,III,C
+53,male,current,none,moderate,no,Kidney Disease,prostate,I,A
+40,female,never,moderate,high,yes,Kidney Disease,prostate,II,B
+42,female,never,light,moderate,no,Asthma,Blood,III,C
+52,male,never,light,moderate,no,Respiratory Diseases,skin,III,C
+12,female,current,light,moderate,yes,Tuberculosis,colon,II,B
+70,female,never,light,moderate,yes,diabetes,prostate,I,A
+15,male,current,none,low,yes,Hypotension,Blood,IV,D
+21,male,former,none,moderate,no,Asthma,prostate,II,B
+71,male,former,moderate,moderate,yes,Thyroid,Lymph,IV,D
+40,male,never,none,low,yes,Respiratory Diseases,Blood,I,A
+43,male,current,light,low,no,diabetes,prostate,III,C
+64,female,current,none,high,yes,Tuberculosis,prostate,III,C
+42,male,former,light,moderate,no,Stroke,Cervical,II,B
+49,female,former,none,high,yes,Alzheimers disease,lung,I,A
+10,female,never,heavy,high,no,Kidney Disease,Cervical,I,A
+59,male,never,light,low,no,Asthma,prostate,I,A
+60,female,never,none,high,no,Hypotension,lung,III,C
+55,female,former,moderate,high,no,Alzheimers disease,prostate,II,B
+40,female,never,heavy,low,no,Thyroid,Brain,IV,D
+64,male,never,heavy,high,yes,Tuberculosis,ovarian,I,A
+47,male,current,none,moderate,no,Alzheimers disease,Mouth,II,B
+32,male,former,moderate,low,no,Stroke,skin,II,B
+49,female,never,light,low,no,diabetes,Brain,II,B
+64,female,former,light,high,yes,Stroke,prostate,I,A
+27,male,never,light,high,no,Asthma,prostate,IV,D
+22,female,current,none,moderate,yes,Tuberculosis,Mouth,II,B
+30,male,current,moderate,low,no,Stroke,Cervical,IV,D
+33,female,current,heavy,moderate,no,Stroke,Mouth,I,A
+77,female,former,heavy,moderate,no,diabetes,ovarian,IV,D
+49,male,former,moderate,low,no,Tuberculosis,prostate,IV,D
+42,male,current,moderate,moderate,no,Asthma,lung,IV,D
+10,female,current,moderate,high,yes,Alzheimers disease,breast,IV,D
+15,female,never,none,low,no,Stroke,Brain,III,C
+54,female,never,heavy,low,yes,hypertension,Mouth,I,A
+68,male,current,heavy,moderate,yes,diabetes,prostate,II,B
+63,male,current,moderate,low,yes,Thyroid,Blood,IV,D
+23,male,never,light,high,yes,Hypotension,skin,II,B
+41,male,current,light,moderate,no,Asthma,Blood,III,C
+9,female,never,heavy,low,yes,Hypotension,skin,III,C
+74,female,never,heavy,low,no,Alzheimers disease,Mouth,I,A
+74,male,current,moderate,moderate,yes,Respiratory Diseases,Blood,I,A
+78,female,former,moderate,high,no,hypertension,Cervical,II,B
+32,female,never,light,high,yes,Hypotension,lung,IV,D
+57,male,former,light,low,yes,hypertension,Cervical,IV,D
+17,female,current,moderate,low,yes,hypertension,Cervical,I,A
+49,male,current,light,low,no,Alzheimers disease,Blood,I,A
+65,male,former,heavy,high,no,Kidney Disease,skin,II,B
+50,male,former,light,high,no,Tuberculosis,Mouth,II,B
+60,female,former,moderate,low,yes,Stroke,Brain,IV,D
+51,male,current,light,low,yes,hypertension,breast,III,C
+77,male,current,light,moderate,no,Hypotension,Mouth,I,A
+26,female,current,none,low,yes,Thyroid,lung,IV,D
+60,male,never,none,low,yes,diabetes,skin,I,A
+73,male,never,light,high,yes,hypertension,lung,III,C
+10,female,current,none,high,no,Tuberculosis,skin,I,A
+43,female,never,light,high,yes,hypertension,Mouth,III,C
+64,female,current,heavy,low,no,Tuberculosis,prostate,I,A
+75,male,never,heavy,high,yes,Hypotension,ovarian,II,B
+62,male,current,none,high,no,Stroke,ovarian,III,C
+37,female,never,none,low,yes,Kidney Disease,Brain,IV,D
+31,male,former,light,moderate,no,diabetes,lung,II,B
+7,male,current,none,moderate,yes,diabetes,ovarian,I,A
+11,male,current,heavy,moderate,no,hypertension,lung,IV,D
+19,female,current,moderate,low,yes,Stroke,Cervical,II,B
+53,female,former,heavy,low,no,Kidney Disease,Blood,II,B
+68,female,never,light,low,no,diabetes,Lymph,I,A
+13,female,current,moderate,low,no,Asthma,skin,IV,D
+17,male,never,heavy,high,yes,Respiratory Diseases,lung,IV,D
+77,male,former,light,moderate,no,Stroke,Cervical,I,A
+66,male,former,moderate,moderate,no,Thyroid,lung,IV,D
+66,female,never,heavy,high,no,hypertension,Lymph,II,B
+64,female,former,none,high,yes,Thyroid,Lymph,IV,D
+32,male,never,none,high,yes,Hypotension,Mouth,I,A
+42,male,current,moderate,moderate,yes,Alzheimers disease,Lymph,IV,D
+26,male,current,heavy,high,no,Respiratory Diseases,skin,III,C
+65,male,former,moderate,moderate,yes,Asthma,ovarian,IV,D
+51,male,current,moderate,high,no,Thyroid,breast,III,C
+40,female,never,none,moderate,no,Tuberculosis,Cervical,IV,D
+67,male,never,heavy,high,yes,Kidney Disease,lung,II,B
+9,male,never,moderate,moderate,no,hypertension,Mouth,I,A
+31,female,current,light,high,yes,Thyroid,ovarian,IV,D
+79,female,never,light,low,yes,Thyroid,Lymph,I,A
+11,female,former,heavy,moderate,no,Kidney Disease,lung,IV,D
+18,male,current,heavy,moderate,yes,diabetes,ovarian,IV,D
+39,female,never,moderate,moderate,yes,hypertension,colon,III,C
+71,female,never,none,moderate,no,diabetes,colon,II,B
+17,male,former,light,moderate,no,Stroke,Cervical,IV,D
+48,female,former,none,moderate,yes,Hypotension,lung,IV,D
+6,female,never,heavy,low,no,Stroke,Lymph,IV,D
+55,male,current,moderate,low,yes,Stroke,Cervical,II,B
+68,male,never,light,high,no,Tuberculosis,Blood,II,B
+6,male,never,heavy,high,no,Stroke,prostate,II,B
+21,male,current,none,low,no,hypertension,lung,III,C
+46,male,former,moderate,low,yes,Stroke,Blood,II,B
+74,male,current,light,high,yes,Hypotension,skin,II,B
+40,male,current,none,low,yes,Hypotension,Mouth,I,A
+33,male,never,none,moderate,no,Alzheimers disease,Brain,II,B
+21,male,never,moderate,high,no,Tuberculosis,prostate,II,B
+59,female,current,heavy,high,no,Alzheimers disease,Mouth,II,B
+33,male,current,none,moderate,yes,Kidney Disease,lung,IV,D
+75,female,current,moderate,moderate,no,Stroke,Blood,I,A
+45,male,former,heavy,high,no,Tuberculosis,lung,IV,D
+19,female,never,heavy,moderate,no,Thyroid,Cervical,II,B
+43,male,never,light,low,yes,Hypotension,prostate,IV,D
+75,male,current,heavy,moderate,no,hypertension,colon,III,C
+24,male,former,none,moderate,no,hypertension,Lymph,I,A
+12,female,never,light,moderate,yes,Alzheimers disease,Brain,I,A
+31,female,current,none,low,yes,Hypotension,lung,I,A
+7,female,former,moderate,high,yes,Tuberculosis,Mouth,I,A
+11,male,former,heavy,high,no,Alzheimers disease,breast,IV,D
+72,male,never,moderate,moderate,no,Kidney Disease,Lymph,I,A
+50,male,current,moderate,high,no,Thyroid,ovarian,II,B
+29,male,never,light,high,yes,Kidney Disease,Brain,IV,D
+62,male,never,none,high,no,hypertension,colon,IV,D
+20,male,former,moderate,high,yes,Stroke,Lymph,IV,D
+76,male,former,light,low,no,Tuberculosis,ovarian,III,C
+59,male,never,heavy,high,yes,hypertension,ovarian,II,B
+29,female,current,heavy,high,no,hypertension,ovarian,IV,D
+78,male,former,light,high,no,Respiratory Diseases,colon,I,A
+24,female,never,moderate,low,no,hypertension,ovarian,IV,D
+26,female,never,heavy,high,yes,Asthma,prostate,IV,D
+51,female,former,none,high,yes,hypertension,skin,II,B
+40,male,former,moderate,high,yes,Hypotension,Lymph,II,B
+15,female,former,moderate,moderate,yes,diabetes,Lymph,I,A
+49,female,never,none,low,no,diabetes,Blood,IV,D
+57,male,current,light,high,no,Tuberculosis,Brain,I,A
+64,female,former,none,high,yes,Tuberculosis,Lymph,I,A
+52,female,current,heavy,low,yes,hypertension,Brain,II,B
+51,female,never,heavy,low,no,Thyroid,ovarian,I,A
+50,male,never,heavy,low,yes,Tuberculosis,ovarian,IV,D
+33,male,current,light,high,yes,Alzheimers disease,ovarian,III,C
+48,male,former,light,moderate,no,hypertension,prostate,I,A
+11,male,never,light,low,no,Tuberculosis,Mouth,III,C
+20,female,current,none,high,no,Alzheimers disease,ovarian,I,A
+77,female,never,heavy,low,no,Asthma,Mouth,III,C
+75,male,former,heavy,low,no,Tuberculosis,skin,II,B
+25,male,former,none,low,yes,Hypotension,colon,III,C
+62,male,current,none,high,no,Tuberculosis,lung,II,B
+15,female,never,heavy,moderate,yes,hypertension,Cervical,I,A
+33,male,former,moderate,moderate,no,Thyroid,Brain,I,A
+46,male,current,none,moderate,no,hypertension,colon,IV,D
+16,female,never,moderate,moderate,yes,Tuberculosis,prostate,III,C
+76,male,current,light,moderate,no,Thyroid,Cervical,IV,D
+58,female,current,moderate,moderate,no,Stroke,Brain,I,A
+17,male,never,moderate,moderate,no,diabetes,Brain,IV,D
+59,female,former,none,low,yes,Tuberculosis,lung,IV,D
+43,female,current,light,low,no,Stroke,skin,II,B
+18,male,never,moderate,moderate,yes,hypertension,ovarian,II,B
+12,male,current,light,moderate,no,diabetes,prostate,III,C
+36,female,never,light,low,yes,Respiratory Diseases,lung,I,A
+50,male,current,moderate,low,yes,Hypotension,Brain,I,A
+32,female,former,moderate,low,no,diabetes,prostate,IV,D
+70,female,current,none,high,yes,Alzheimers disease,colon,II,B
+30,female,former,heavy,high,no,Kidney Disease,lung,I,A
+26,female,current,moderate,moderate,no,hypertension,skin,II,B
+11,male,never,light,high,yes,Tuberculosis,colon,II,B
+41,female,current,light,high,yes,Asthma,skin,I,A
+23,male,former,light,moderate,yes,diabetes,breast,IV,D
+61,female,current,heavy,high,no,Stroke,prostate,I,A
+40,female,never,none,high,yes,Tuberculosis,ovarian,I,A
+16,female,never,none,high,no,Alzheimers disease,Brain,III,C
+33,female,never,moderate,high,yes,Kidney Disease,Cervical,II,B
+51,male,former,heavy,high,no,hypertension,prostate,III,C
+10,female,current,light,low,no,diabetes,Brain,III,C
+8,female,former,heavy,moderate,no,Asthma,Brain,I,A
+17,female,former,light,low,yes,Respiratory Diseases,skin,III,C
+59,male,never,heavy,low,no,Thyroid,ovarian,I,A
+25,female,former,heavy,high,no,hypertension,Blood,I,A
+39,male,former,moderate,high,yes,Thyroid,Brain,III,C
+5,male,former,light,low,yes,Asthma,breast,I,A
+18,male,current,light,high,yes,Asthma,ovarian,II,B
+27,male,never,moderate,low,no,Hypotension,colon,III,C
+78,male,former,moderate,high,no,diabetes,colon,IV,D
+19,male,former,none,moderate,no,Kidney Disease,colon,I,A
+34,female,former,heavy,low,no,Asthma,Brain,I,A
+69,female,former,moderate,low,yes,Alzheimers disease,skin,IV,D
+15,female,former,none,moderate,yes,Alzheimers disease,skin,I,A
+39,male,current,heavy,moderate,yes,Stroke,colon,I,A
+46,female,former,none,high,no,Asthma,skin,II,B
+68,female,former,none,moderate,yes,Alzheimers disease,Mouth,III,C
+42,female,never,heavy,high,no,Asthma,Blood,IV,D
+61,female,current,light,high,no,Stroke,lung,III,C
+20,male,current,heavy,high,no,Tuberculosis,breast,I,A
+42,male,former,moderate,high,no,Stroke,Blood,III,C
+43,male,former,heavy,high,no,Tuberculosis,Brain,IV,D
+34,male,never,none,moderate,yes,Tuberculosis,lung,III,C
+58,male,never,light,low,no,Respiratory Diseases,Mouth,III,C
+71,male,never,light,low,no,Asthma,Brain,II,B
+6,male,current,light,high,no,Hypotension,Blood,II,B
+68,female,current,light,high,no,hypertension,lung,II,B
+12,male,current,none,moderate,yes,Alzheimers disease,Mouth,I,A
+31,male,never,heavy,low,yes,hypertension,Lymph,IV,D
+29,male,never,heavy,low,no,hypertension,prostate,IV,D
+61,male,never,none,high,no,Stroke,Cervical,I,A
+47,male,current,none,moderate,yes,Asthma,prostate,I,A
+35,male,current,moderate,low,no,Alzheimers disease,prostate,II,B
+60,male,former,none,moderate,yes,Respiratory Diseases,colon,I,A
+57,female,never,none,moderate,no,diabetes,Cervical,III,C
+59,male,never,light,low,yes,Stroke,lung,III,C
+69,male,former,none,low,no,Kidney Disease,skin,IV,D
+39,male,current,none,low,no,Hypotension,Brain,IV,D
+22,male,former,light,high,yes,Hypotension,colon,III,C
+54,female,former,none,high,yes,Hypotension,prostate,II,B
+49,female,never,moderate,high,yes,Hypotension,skin,IV,D
+51,female,former,none,moderate,no,diabetes,colon,IV,D
+46,female,current,none,high,yes,Stroke,skin,III,C
+21,female,never,none,high,no,Thyroid,prostate,III,C
+48,female,former,moderate,low,yes,Kidney Disease,colon,II,B
+47,female,former,light,moderate,yes,Alzheimers disease,ovarian,IV,D
+64,female,current,light,low,yes,Thyroid,Mouth,I,A
+14,male,former,heavy,moderate,yes,hypertension,Lymph,III,C
+13,male,former,heavy,low,no,Kidney Disease,colon,II,B
+73,female,current,heavy,low,no,diabetes,lung,II,B
+32,female,never,light,low,no,Respiratory Diseases,lung,II,B
+7,male,current,moderate,low,no,Hypotension,Brain,I,A
+44,female,never,heavy,moderate,yes,Hypotension,breast,I,A
+20,female,never,light,moderate,yes,diabetes,lung,III,C
+6,male,current,light,high,no,Respiratory Diseases,prostate,III,C
+28,female,current,light,high,yes,Kidney Disease,ovarian,III,C
+71,female,current,light,moderate,no,Kidney Disease,Mouth,IV,D
+43,female,never,light,moderate,no,Respiratory Diseases,lung,I,A
+71,male,former,moderate,low,yes,Kidney Disease,prostate,II,B
+38,female,never,none,high,yes,Hypotension,prostate,I,A
+17,female,current,none,moderate,yes,Asthma,Lymph,II,B
+62,female,current,light,low,yes,Respiratory Diseases,ovarian,III,C
+65,male,former,none,low,yes,Hypotension,skin,IV,D
+28,male,never,moderate,moderate,no,Thyroid,ovarian,IV,D
+9,male,current,light,moderate,no,Thyroid,Lymph,II,B
+43,male,never,heavy,high,yes,hypertension,Lymph,I,A
+39,male,never,heavy,moderate,yes,Alzheimers disease,Brain,III,C
+24,female,current,light,moderate,no,Stroke,skin,I,A
+72,male,current,heavy,moderate,no,Respiratory Diseases,ovarian,II,B
+14,male,never,none,moderate,yes,diabetes,prostate,I,A
+71,female,current,moderate,low,no,Tuberculosis,Cervical,III,C
+79,male,former,light,low,yes,Kidney Disease,Mouth,II,B
+44,female,never,moderate,low,no,Kidney Disease,Brain,III,C
+76,male,current,light,low,no,Stroke,lung,II,B
+10,female,former,none,low,yes,Thyroid,skin,III,C
+32,female,current,light,high,yes,Respiratory Diseases,Cervical,I,A
+12,female,former,none,high,no,diabetes,breast,III,C
+20,female,current,light,moderate,yes,Tuberculosis,Blood,III,C
+53,male,never,light,moderate,no,Thyroid,Lymph,IV,D
+65,male,former,light,high,yes,Thyroid,ovarian,I,A
+20,male,never,none,high,yes,Respiratory Diseases,Lymph,I,A
+43,female,former,moderate,high,yes,Respiratory Diseases,Cervical,IV,D
+22,male,current,none,high,no,hypertension,ovarian,II,B
+5,female,former,light,high,no,Asthma,colon,II,B
+46,male,current,none,moderate,no,Thyroid,breast,II,B
+43,female,never,none,high,yes,Kidney Disease,colon,IV,D
+36,male,never,light,moderate,yes,Kidney Disease,Mouth,IV,D
+13,female,former,heavy,low,yes,hypertension,breast,III,C
+76,female,never,moderate,high,no,Hypotension,Blood,II,B
+38,female,current,moderate,low,yes,Alzheimers disease,breast,I,A
+72,female,current,light,high,no,Asthma,skin,I,A
+30,female,former,moderate,low,yes,hypertension,lung,I,A
+26,female,former,light,high,yes,diabetes,Cervical,I,A
+71,female,former,none,high,no,hypertension,Brain,III,C
+40,female,never,moderate,low,no,Hypotension,Blood,I,A
+66,female,current,moderate,high,no,Hypotension,ovarian,II,B
+75,female,never,moderate,high,yes,Thyroid,skin,III,C
+12,male,never,none,low,no,diabetes,Blood,II,B
+77,female,former,none,low,no,hypertension,lung,IV,D
+14,female,former,none,low,no,Kidney Disease,Cervical,II,B
+55,female,current,light,high,yes,Thyroid,breast,IV,D
+78,male,never,moderate,moderate,yes,Alzheimers disease,Blood,I,A
+31,male,current,none,high,no,Respiratory Diseases,Mouth,I,A
+56,female,former,moderate,high,no,hypertension,Cervical,III,C
+66,female,current,heavy,high,no,diabetes,ovarian,III,C
+6,female,former,moderate,low,no,Stroke,skin,IV,D
+16,female,current,moderate,low,no,Respiratory Diseases,breast,IV,D
+42,male,current,none,low,yes,diabetes,breast,IV,D
+34,male,current,moderate,high,yes,hypertension,prostate,III,C
+20,male,never,moderate,high,no,Asthma,Lymph,IV,D
+79,female,former,light,moderate,yes,Respiratory Diseases,skin,I,A
+47,male,former,moderate,moderate,yes,Alzheimers disease,prostate,III,C
+8,male,former,heavy,moderate,yes,Alzheimers disease,prostate,III,C
+58,female,former,none,high,yes,diabetes,Blood,IV,D
+39,female,never,heavy,low,yes,diabetes,Mouth,I,A
+73,male,current,none,high,no,Alzheimers disease,Cervical,III,C
+30,female,current,light,high,no,Asthma,Brain,IV,D
+71,male,never,light,low,no,Hypotension,Mouth,I,A
+23,female,never,heavy,low,no,Alzheimers disease,Brain,II,B
+26,male,current,light,low,no,Kidney Disease,Brain,I,A
+67,female,current,light,low,yes,Stroke,Brain,II,B
+22,female,never,heavy,low,no,Hypotension,breast,I,A
+53,female,never,light,low,yes,Hypotension,Blood,I,A
+65,male,current,none,high,no,Tuberculosis,lung,IV,D
+6,male,former,light,high,no,Tuberculosis,breast,II,B
+67,male,current,moderate,low,yes,hypertension,lung,II,B
+71,male,current,light,low,no,Asthma,colon,I,A
+78,female,never,none,high,yes,Alzheimers disease,lung,II,B
+48,female,never,light,moderate,no,Stroke,ovarian,I,A
+69,male,current,heavy,low,yes,Asthma,Cervical,I,A
+38,male,never,light,moderate,yes,Stroke,colon,IV,D
+47,female,current,heavy,low,yes,diabetes,Blood,III,C
+54,male,former,none,moderate,yes,Tuberculosis,Brain,III,C
+29,male,current,none,moderate,yes,Kidney Disease,Brain,III,C
+28,female,never,heavy,high,no,Kidney Disease,lung,II,B
+74,male,current,light,moderate,yes,Stroke,ovarian,III,C
+64,female,never,none,low,yes,Thyroid,Lymph,II,B
+26,female,former,moderate,low,no,Asthma,Mouth,IV,D
+12,male,never,moderate,high,yes,Tuberculosis,Blood,II,B
+36,female,never,none,high,yes,Respiratory Diseases,Mouth,II,B
+22,male,never,none,low,yes,Thyroid,Lymph,III,C
+47,male,current,light,low,no,Hypotension,Lymph,I,A
+50,female,former,none,moderate,no,Hypotension,Cervical,I,A
+23,male,never,heavy,high,yes,hypertension,breast,III,C
+73,male,former,moderate,moderate,no,hypertension,colon,IV,D
+56,female,never,light,low,no,Respiratory Diseases,prostate,II,B
+31,male,former,light,moderate,no,hypertension,ovarian,IV,D
+21,female,former,moderate,moderate,yes,Respiratory Diseases,Blood,I,A
+14,female,current,heavy,high,yes,Tuberculosis,skin,III,C
+72,male,never,none,moderate,no,Alzheimers disease,ovarian,II,B
+68,female,current,moderate,high,yes,diabetes,Lymph,III,C
+36,female,never,heavy,low,yes,Thyroid,colon,III,C
+44,female,current,moderate,low,yes,hypertension,Blood,IV,D
+26,female,former,moderate,high,yes,Alzheimers disease,skin,IV,D
+19,male,current,light,low,no,diabetes,prostate,I,A
+12,female,never,moderate,moderate,yes,Tuberculosis,prostate,III,C
+78,female,former,none,low,yes,Respiratory Diseases,breast,III,C
+70,female,former,light,high,yes,Alzheimers disease,Cervical,III,C
+38,male,current,light,moderate,yes,Stroke,colon,I,A
+21,female,former,light,low,yes,Respiratory Diseases,Mouth,II,B
+25,female,never,moderate,low,yes,diabetes,lung,I,A
+65,male,never,moderate,low,yes,Tuberculosis,Blood,II,B
+8,male,never,moderate,moderate,no,Asthma,Brain,I,A
+52,male,current,none,moderate,no,Tuberculosis,colon,IV,D
+20,male,former,moderate,moderate,no,Thyroid,colon,II,B
+10,male,former,none,moderate,no,diabetes,Cervical,II,B
+79,male,current,heavy,low,yes,Asthma,colon,III,C
+66,female,current,heavy,high,yes,Thyroid,breast,I,A
+70,female,never,heavy,moderate,no,Thyroid,ovarian,IV,D
+14,male,never,light,high,yes,Kidney Disease,Lymph,II,B
+36,male,current,none,low,no,hypertension,prostate,I,A
+63,female,current,moderate,low,no,Kidney Disease,ovarian,IV,D
+14,female,never,none,moderate,yes,Stroke,prostate,IV,D
+9,female,never,none,high,no,Respiratory Diseases,colon,I,A
+23,female,former,light,moderate,yes,Alzheimers disease,lung,IV,D
+50,female,never,moderate,moderate,yes,hypertension,Mouth,I,A
+46,male,former,none,moderate,yes,Thyroid,Mouth,III,C
+14,male,never,heavy,moderate,yes,Asthma,ovarian,III,C
+31,female,current,light,low,no,Stroke,Brain,IV,D
+52,male,never,heavy,high,yes,Hypotension,Cervical,III,C
+15,female,current,heavy,high,yes,Thyroid,Brain,III,C
+46,female,never,none,moderate,yes,Hypotension,Lymph,I,A
+63,male,current,heavy,low,no,Alzheimers disease,Blood,I,A
+21,female,never,moderate,moderate,yes,Respiratory Diseases,breast,III,C
+41,male,never,light,high,yes,Respiratory Diseases,Brain,II,B
+79,female,never,light,low,yes,Hypotension,colon,I,A
+61,female,never,heavy,high,no,diabetes,colon,III,C
+28,female,current,none,high,no,Respiratory Diseases,colon,I,A
+62,female,never,none,low,yes,hypertension,skin,I,A
+43,female,current,none,moderate,yes,diabetes,Mouth,III,C
+45,female,former,none,moderate,no,diabetes,lung,I,A
+12,female,current,none,high,no,Thyroid,ovarian,II,B
+16,male,current,heavy,moderate,no,Asthma,prostate,II,B
+43,male,current,moderate,low,no,Hypotension,lung,IV,D
+23,male,never,moderate,low,no,hypertension,lung,III,C
+11,female,former,light,moderate,yes,Hypotension,colon,I,A
+60,female,current,heavy,low,yes,Kidney Disease,Blood,IV,D
+10,male,former,heavy,moderate,yes,Tuberculosis,Brain,II,B
+43,male,current,moderate,moderate,yes,Stroke,colon,IV,D
+14,female,former,moderate,moderate,yes,Kidney Disease,Blood,II,B
+75,female,never,none,low,no,Stroke,Mouth,IV,D
+42,female,never,light,low,yes,Hypotension,breast,I,A
+35,female,current,heavy,moderate,no,diabetes,Cervical,II,B
+11,female,former,none,moderate,no,Stroke,skin,I,A
+58,male,current,light,low,yes,Stroke,skin,IV,D
+72,male,former,moderate,low,no,Asthma,Lymph,IV,D
+60,female,current,heavy,moderate,yes,Kidney Disease,skin,I,A
+33,female,never,moderate,low,yes,Respiratory Diseases,Mouth,IV,D
+40,male,never,none,moderate,no,Tuberculosis,breast,III,C
+34,female,current,none,moderate,yes,Stroke,Lymph,III,C
+50,male,current,moderate,moderate,yes,hypertension,skin,II,B
+55,female,former,light,high,no,Asthma,ovarian,III,C
+42,female,never,none,low,no,Respiratory Diseases,Blood,III,C
+66,male,current,heavy,high,yes,Stroke,Mouth,II,B
+28,male,current,moderate,high,yes,hypertension,lung,IV,D
+30,male,current,light,high,no,Tuberculosis,lung,IV,D
+39,female,never,none,high,yes,Kidney Disease,Blood,II,B
+65,male,current,none,low,no,Asthma,lung,I,A
+33,female,current,moderate,low,no,Tuberculosis,Brain,III,C
+51,female,current,light,high,yes,hypertension,colon,III,C
+10,male,never,light,moderate,yes,Hypotension,Mouth,I,A
+20,female,current,light,moderate,no,Asthma,colon,I,A
+53,male,current,moderate,low,no,hypertension,prostate,II,B
+62,male,current,moderate,low,no,Kidney Disease,ovarian,I,A
+17,male,never,none,low,no,Thyroid,ovarian,I,A
+22,female,never,none,moderate,no,Tuberculosis,prostate,II,B
+55,female,never,none,moderate,yes,Thyroid,lung,I,A
+12,female,never,moderate,high,yes,Thyroid,Mouth,I,A
+74,female,current,light,moderate,yes,Respiratory Diseases,lung,II,B
+29,male,former,moderate,low,no,Stroke,Brain,IV,D
+21,male,current,heavy,moderate,no,Hypotension,ovarian,IV,D
+63,female,former,none,moderate,no,Hypotension,skin,II,B
+71,male,current,heavy,moderate,yes,diabetes,Mouth,I,A
+9,male,current,none,high,no,Asthma,Cervical,II,B
+27,male,never,heavy,moderate,yes,Thyroid,Lymph,IV,D
+76,female,current,heavy,high,no,Hypotension,colon,IV,D
+33,male,former,heavy,high,no,Kidney Disease,Blood,I,A
+72,male,never,heavy,high,yes,Respiratory Diseases,lung,II,B
+78,male,current,heavy,high,no,Asthma,ovarian,II,B
+6,male,former,moderate,moderate,yes,Respiratory Diseases,lung,III,C
+51,female,current,light,low,no,Alzheimers disease,prostate,I,A
+22,female,former,none,high,no,Stroke,Brain,III,C
+19,male,never,none,high,yes,hypertension,lung,III,C
+74,female,former,none,high,yes,Thyroid,Cervical,II,B
+12,female,current,heavy,low,yes,Kidney Disease,colon,II,B
+49,male,former,moderate,moderate,no,Hypotension,breast,IV,D
+25,female,current,none,moderate,no,Tuberculosis,Brain,I,A
+20,male,current,heavy,low,no,Thyroid,skin,III,C
+26,male,never,none,low,yes,Asthma,Mouth,III,C
+51,male,current,heavy,low,no,Alzheimers disease,Blood,I,A
+40,male,never,light,moderate,yes,diabetes,lung,IV,D
+66,male,current,heavy,low,yes,Kidney Disease,Cervical,I,A
+42,male,former,moderate,low,no,Hypotension,breast,IV,D
+76,female,former,none,low,no,Thyroid,Lymph,II,B
+72,female,never,light,moderate,no,hypertension,Cervical,IV,D
+19,female,former,moderate,moderate,yes,diabetes,Cervical,I,A
+71,female,never,none,moderate,yes,hypertension,Brain,I,A
+21,female,former,none,low,yes,Alzheimers disease,Cervical,I,A
+24,male,current,moderate,moderate,no,Respiratory Diseases,Lymph,IV,D
+17,male,former,moderate,moderate,yes,Respiratory Diseases,Blood,IV,D
+72,male,never,light,moderate,yes,diabetes,Brain,II,B
+14,female,current,heavy,moderate,no,Tuberculosis,prostate,III,C
+50,male,never,heavy,moderate,yes,Alzheimers disease,Blood,I,A
+15,male,former,moderate,moderate,no,Stroke,ovarian,II,B
+79,female,former,moderate,high,no,Hypotension,prostate,III,C
+78,male,never,heavy,high,yes,Thyroid,ovarian,IV,D
+57,male,never,moderate,moderate,no,hypertension,Mouth,IV,D
+19,male,never,none,high,yes,Stroke,Mouth,II,B
+25,female,current,moderate,high,yes,Thyroid,colon,III,C
+46,female,never,none,low,yes,Stroke,Cervical,II,B
+71,female,current,none,moderate,no,hypertension,prostate,II,B
+14,male,former,light,low,no,Thyroid,Blood,III,C
+13,male,former,moderate,moderate,yes,Alzheimers disease,Blood,I,A
+19,male,former,heavy,high,yes,Thyroid,Brain,II,B
+76,male,former,light,low,yes,Asthma,Mouth,I,A
+60,female,former,light,moderate,yes,Thyroid,prostate,IV,D
+49,male,former,none,low,yes,Tuberculosis,Lymph,II,B
+33,female,never,moderate,high,yes,Respiratory Diseases,skin,II,B
+57,female,never,heavy,high,no,Hypotension,Brain,III,C
+49,female,former,none,low,yes,Kidney Disease,prostate,IV,D
+35,male,current,none,moderate,no,Asthma,ovarian,II,B
+55,male,never,light,high,no,Alzheimers disease,Cervical,IV,D
+20,female,current,none,moderate,no,diabetes,Brain,II,B
+6,male,former,heavy,moderate,no,Respiratory Diseases,colon,IV,D
+71,male,current,light,moderate,yes,Alzheimers disease,Brain,I,A
+6,male,current,light,moderate,no,Kidney Disease,lung,III,C
+65,male,never,none,high,yes,Thyroid,skin,III,C
+77,male,never,none,moderate,no,Kidney Disease,colon,IV,D
+17,male,current,light,moderate,yes,hypertension,breast,III,C
+32,female,former,heavy,moderate,yes,Hypotension,Blood,II,B
+17,male,former,moderate,moderate,yes,diabetes,ovarian,I,A
+40,male,current,none,low,no,hypertension,breast,I,A
+68,female,former,none,high,no,Thyroid,Blood,II,B
+40,male,current,heavy,low,no,Stroke,Mouth,III,C
+26,female,former,moderate,moderate,yes,Stroke,lung,I,A
+12,male,never,none,low,no,Kidney Disease,Lymph,II,B
+29,male,former,heavy,high,no,Stroke,colon,I,A
+78,female,current,light,moderate,no,hypertension,breast,IV,D
+17,male,never,none,moderate,yes,Hypotension,Blood,IV,D
+12,male,current,heavy,moderate,yes,Stroke,colon,III,C
+72,female,current,light,high,yes,Kidney Disease,prostate,III,C
+79,female,current,moderate,high,no,diabetes,colon,II,B

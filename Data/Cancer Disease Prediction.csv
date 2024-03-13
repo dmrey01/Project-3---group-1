@@ -1,0 +1,1001 @@
+,patient_id,age,gender,smoking_status,alcohol_intake,physical_activity,family_history,medical_history,cancer_type,cancer_stage
+0,4055,29,male,former,light,high,yes,Respiratory Diseases,Mouth,III
+1,746,72,male,former,moderate,low,no,Respiratory Diseases,Brain,IV
+2,1050,10,male,current,none,moderate,yes,Stroke,ovarian,II
+3,4139,35,male,former,heavy,low,no,Stroke,Lymph,IV
+4,119,6,female,former,none,moderate,no,Thyroid,lung,IV
+5,1227,73,male,never,heavy,high,yes,Kidney Disease,lung,I
+6,6032,68,female,never,light,low,yes,Respiratory Diseases,ovarian,I
+7,1055,9,female,never,heavy,high,no,Thyroid,lung,IV
+8,2458,20,female,current,moderate,high,no,Tuberculosis,skin,IV
+9,3525,65,female,never,heavy,low,no,hypertension,Lymph,I
+10,6640,35,male,never,light,high,no,Thyroid,Lymph,IV
+11,5139,32,female,former,none,moderate,yes,Alzheimers disease,prostate,III
+12,127,61,female,current,none,low,no,Kidney Disease,colon,IV
+13,2022,74,female,current,none,low,no,Hypotension,ovarian,II
+14,4079,25,female,former,moderate,low,no,Kidney Disease,Mouth,II
+15,9309,45,male,former,heavy,low,yes,Kidney Disease,ovarian,II
+16,1393,44,male,current,heavy,moderate,no,Hypotension,Blood,II
+17,344,78,male,current,light,moderate,no,Tuberculosis,prostate,I
+18,6407,70,female,never,light,low,yes,diabetes,Cervical,II
+19,9702,21,male,never,heavy,moderate,yes,Alzheimers disease,Cervical,III
+20,3282,57,male,former,heavy,low,no,hypertension,lung,IV
+21,1698,55,female,current,heavy,moderate,no,Thyroid,lung,IV
+22,9978,43,male,former,light,moderate,no,Tuberculosis,Cervical,III
+23,1751,41,male,never,light,high,yes,Alzheimers disease,ovarian,I
+24,7121,33,female,current,heavy,high,no,Kidney Disease,lung,II
+25,7319,79,female,former,none,high,no,hypertension,colon,III
+26,744,12,female,former,light,moderate,yes,Tuberculosis,Lymph,II
+27,369,29,female,former,heavy,high,no,Thyroid,Blood,II
+28,7176,70,male,former,heavy,low,yes,Hypotension,Cervical,III
+29,5982,36,male,current,moderate,low,no,diabetes,Lymph,I
+30,2994,68,male,never,light,high,yes,Tuberculosis,Brain,I
+31,5262,10,female,former,light,moderate,no,Hypotension,Mouth,IV
+32,8709,37,male,former,moderate,high,yes,hypertension,Brain,III
+33,5151,23,male,current,heavy,high,no,Asthma,lung,I
+34,4093,65,female,current,heavy,low,no,Thyroid,Lymph,I
+35,5447,41,male,former,none,moderate,yes,Tuberculosis,Blood,II
+36,8240,49,male,current,none,moderate,yes,hypertension,Blood,I
+37,117,16,male,current,none,low,yes,Kidney Disease,Brain,II
+38,6480,41,female,former,moderate,low,yes,Alzheimers disease,ovarian,II
+39,7056,60,female,former,none,moderate,yes,Hypotension,skin,III
+40,9752,15,male,current,none,low,no,Asthma,breast,I
+41,5362,77,male,former,heavy,moderate,yes,Stroke,Cervical,IV
+42,4338,11,male,never,light,high,yes,Thyroid,ovarian,IV
+43,3808,46,male,never,none,high,yes,Respiratory Diseases,lung,II
+44,4367,67,female,current,none,low,no,Tuberculosis,ovarian,I
+45,8007,51,female,never,none,high,yes,Thyroid,lung,II
+46,9124,66,female,never,heavy,low,yes,Alzheimers disease,Brain,II
+47,676,33,male,current,none,high,yes,diabetes,Brain,I
+48,2503,17,female,current,light,low,no,diabetes,Mouth,I
+49,7861,57,female,former,heavy,low,no,Kidney Disease,colon,II
+50,2359,58,female,current,light,low,yes,Tuberculosis,Brain,I
+51,8591,36,female,never,none,moderate,no,Tuberculosis,ovarian,II
+52,5513,44,male,former,heavy,high,no,Asthma,Lymph,II
+53,9511,18,male,former,moderate,high,no,Kidney Disease,prostate,IV
+54,7207,47,male,never,light,low,no,hypertension,Cervical,IV
+55,9415,14,female,current,moderate,moderate,no,Tuberculosis,skin,IV
+56,9648,33,male,former,light,high,yes,Kidney Disease,Mouth,I
+57,6317,23,male,current,heavy,moderate,yes,Respiratory Diseases,Blood,IV
+58,1994,61,female,former,moderate,moderate,no,Kidney Disease,lung,I
+59,6713,39,female,current,heavy,moderate,no,Kidney Disease,Mouth,II
+60,578,55,male,never,moderate,low,no,Thyroid,Blood,II
+61,718,38,female,never,none,high,no,Kidney Disease,Mouth,IV
+62,7408,43,male,former,moderate,low,no,Stroke,Cervical,I
+63,1867,45,male,former,none,low,no,Asthma,ovarian,I
+64,1799,36,male,current,moderate,high,no,Thyroid,Blood,II
+65,6012,79,female,former,moderate,low,yes,Alzheimers disease,prostate,II
+66,6574,73,female,never,moderate,moderate,yes,Kidney Disease,Lymph,IV
+67,612,59,female,never,heavy,moderate,yes,Hypotension,lung,I
+68,5382,65,male,current,heavy,moderate,no,hypertension,skin,III
+69,6254,14,male,current,moderate,high,yes,Asthma,breast,IV
+70,2529,19,female,current,light,high,yes,Asthma,prostate,III
+71,1754,74,female,current,heavy,high,no,Alzheimers disease,colon,II
+72,2316,46,female,current,light,low,yes,Tuberculosis,Cervical,II
+73,3930,16,male,never,moderate,moderate,no,Hypotension,ovarian,IV
+74,3156,17,female,current,heavy,moderate,yes,Respiratory Diseases,Brain,III
+75,9993,48,female,current,heavy,high,yes,hypertension,Cervical,II
+76,1002,46,male,former,none,low,yes,Tuberculosis,Brain,I
+77,8296,25,female,former,heavy,high,no,Tuberculosis,Lymph,II
+78,2857,6,female,never,light,low,yes,Tuberculosis,breast,II
+79,134,31,male,never,none,moderate,no,Hypotension,Mouth,IV
+80,4056,31,female,never,heavy,low,no,Kidney Disease,Cervical,III
+81,812,54,female,current,heavy,high,yes,Stroke,Lymph,IV
+82,9132,34,male,former,heavy,high,no,Alzheimers disease,Lymph,III
+83,8037,33,female,never,heavy,low,yes,Tuberculosis,Blood,IV
+84,936,12,male,former,heavy,high,no,Alzheimers disease,lung,II
+85,5866,62,male,former,none,high,no,Stroke,Blood,IV
+86,4070,64,female,former,heavy,low,yes,Respiratory Diseases,lung,III
+87,2126,67,male,current,light,moderate,yes,hypertension,skin,I
+88,7143,16,female,never,heavy,high,yes,diabetes,skin,IV
+89,9552,20,male,never,none,high,yes,hypertension,Cervical,III
+90,6068,54,female,never,light,high,no,Asthma,Cervical,III
+91,4798,65,female,never,moderate,moderate,yes,diabetes,Cervical,III
+92,8815,5,male,current,heavy,moderate,yes,Kidney Disease,Lymph,I
+93,4040,13,male,never,none,moderate,no,Alzheimers disease,skin,I
+94,2432,65,female,former,none,high,no,hypertension,Lymph,I
+95,6454,51,female,former,heavy,low,no,Kidney Disease,breast,IV
+96,5644,77,female,former,heavy,low,no,Tuberculosis,skin,I
+97,7196,44,male,former,light,low,no,Hypotension,lung,I
+98,9472,47,male,current,none,high,yes,Asthma,skin,III
+99,4734,22,female,current,moderate,low,no,hypertension,prostate,II
+100,1817,76,male,never,heavy,high,yes,Asthma,lung,II
+101,1969,29,male,former,moderate,high,yes,diabetes,skin,I
+102,882,28,female,former,none,moderate,no,Kidney Disease,breast,I
+103,2419,52,female,former,none,moderate,no,Alzheimers disease,ovarian,II
+104,6494,23,male,never,none,high,yes,Hypotension,colon,IV
+105,7119,60,male,former,moderate,low,no,Alzheimers disease,Lymph,I
+106,6351,30,female,current,moderate,low,yes,Asthma,Mouth,I
+107,4706,77,male,current,none,moderate,yes,Kidney Disease,Mouth,IV
+108,3365,42,female,never,moderate,moderate,yes,Alzheimers disease,Blood,I
+109,136,19,female,current,heavy,low,yes,Tuberculosis,ovarian,I
+110,3943,43,female,former,heavy,low,no,hypertension,skin,II
+111,5215,26,male,former,moderate,moderate,no,hypertension,prostate,II
+112,6126,60,male,former,none,high,yes,Alzheimers disease,lung,IV
+113,6808,30,female,never,heavy,high,no,diabetes,Mouth,IV
+114,9325,63,male,former,heavy,moderate,no,Stroke,Mouth,II
+115,9090,70,female,former,moderate,moderate,yes,hypertension,ovarian,I
+116,1025,69,female,never,heavy,low,yes,Stroke,Lymph,II
+117,7240,5,male,current,none,high,yes,Kidney Disease,Mouth,III
+118,1538,42,male,never,moderate,moderate,no,hypertension,skin,IV
+119,282,27,female,never,moderate,high,no,Alzheimers disease,Brain,I
+120,715,12,male,current,heavy,moderate,yes,hypertension,prostate,IV
+121,5287,15,male,former,light,moderate,no,Respiratory Diseases,skin,IV
+122,2653,19,male,former,none,moderate,yes,hypertension,Mouth,III
+123,4175,68,female,never,none,moderate,no,Hypotension,skin,I
+124,6408,67,male,never,moderate,low,no,Tuberculosis,Brain,IV
+125,1945,56,male,current,heavy,low,no,Respiratory Diseases,Lymph,II
+126,2499,71,male,current,moderate,moderate,yes,Stroke,Cervical,IV
+127,3996,58,male,never,none,low,no,Hypotension,Mouth,II
+128,601,41,female,former,heavy,low,no,Stroke,Lymph,I
+129,871,12,male,never,light,high,no,Alzheimers disease,colon,II
+130,140,5,male,current,heavy,high,no,Kidney Disease,skin,IV
+131,4048,32,male,former,heavy,moderate,no,Asthma,Cervical,III
+132,2379,77,female,current,heavy,high,no,diabetes,Blood,I
+133,5710,45,female,former,moderate,moderate,yes,Hypotension,Mouth,II
+134,1915,6,male,never,heavy,low,no,Hypotension,Blood,II
+135,4222,30,female,former,heavy,low,yes,Hypotension,colon,IV
+136,7938,58,female,former,heavy,moderate,yes,Tuberculosis,Blood,IV
+137,9221,37,male,never,moderate,high,yes,hypertension,skin,III
+138,1149,54,male,current,light,high,no,Asthma,Cervical,IV
+139,3630,30,female,never,heavy,high,yes,Thyroid,Cervical,I
+140,8515,12,male,current,light,high,no,hypertension,breast,I
+141,2607,77,male,former,heavy,high,yes,Stroke,Brain,I
+142,4968,64,female,current,heavy,moderate,no,Stroke,colon,I
+143,8489,49,male,former,light,moderate,yes,Hypotension,breast,II
+144,1599,8,male,former,heavy,moderate,yes,hypertension,prostate,IV
+145,8094,8,male,current,moderate,moderate,yes,Tuberculosis,Cervical,IV
+146,4494,78,male,former,moderate,low,yes,Tuberculosis,breast,II
+147,8697,75,male,current,none,high,no,Stroke,lung,IV
+148,2335,13,male,current,moderate,moderate,yes,diabetes,Brain,I
+149,9292,51,male,former,none,low,no,Hypotension,ovarian,II
+150,8384,70,female,never,moderate,low,no,diabetes,Brain,IV
+151,7474,11,female,never,moderate,high,no,Respiratory Diseases,colon,III
+152,3837,60,female,never,none,moderate,yes,Respiratory Diseases,lung,IV
+153,3469,5,female,never,none,low,no,Kidney Disease,prostate,IV
+154,5686,19,male,former,light,moderate,no,hypertension,Mouth,III
+155,2902,53,male,former,moderate,high,no,diabetes,skin,II
+156,6606,13,male,current,light,moderate,no,Alzheimers disease,prostate,III
+157,1338,74,female,former,light,high,no,Kidney Disease,breast,II
+158,7111,66,female,current,none,moderate,no,Thyroid,Cervical,III
+159,6137,8,female,current,heavy,moderate,yes,Tuberculosis,skin,I
+160,4579,21,female,current,heavy,high,no,Hypotension,colon,I
+161,193,38,female,current,moderate,high,yes,Asthma,Mouth,I
+162,3349,40,female,current,heavy,low,no,Tuberculosis,Blood,II
+163,2061,25,female,never,heavy,moderate,no,Stroke,Cervical,IV
+164,890,60,male,former,none,high,yes,Stroke,Mouth,I
+165,9567,11,male,former,heavy,high,yes,diabetes,lung,I
+166,3529,55,female,current,none,moderate,yes,Thyroid,Cervical,III
+167,2326,68,male,current,moderate,high,no,Stroke,skin,II
+168,4061,45,female,current,light,moderate,yes,Hypotension,Blood,III
+169,9649,68,female,former,light,moderate,yes,Stroke,Lymph,IV
+170,6379,29,male,former,moderate,high,yes,hypertension,ovarian,II
+171,6451,37,female,never,heavy,low,yes,diabetes,colon,II
+172,6060,33,male,never,light,moderate,no,Hypotension,colon,II
+173,8992,64,female,never,light,high,yes,Tuberculosis,breast,II
+174,8990,14,male,never,moderate,moderate,no,Hypotension,colon,II
+175,5236,41,female,current,light,low,no,hypertension,colon,I
+176,4945,48,female,current,none,moderate,yes,Thyroid,Brain,I
+177,703,20,female,never,moderate,low,no,Asthma,colon,III
+178,4464,75,female,never,none,high,no,Kidney Disease,skin,III
+179,1450,67,male,current,none,high,no,diabetes,breast,II
+180,3598,8,male,current,light,moderate,yes,Tuberculosis,Lymph,III
+181,6024,39,male,former,heavy,high,yes,Thyroid,ovarian,II
+182,1824,32,male,current,heavy,high,yes,diabetes,prostate,III
+183,7551,5,female,never,moderate,moderate,yes,diabetes,ovarian,III
+184,555,9,female,former,light,high,yes,diabetes,Cervical,II
+185,7562,31,male,never,heavy,high,no,Hypotension,lung,I
+186,975,79,male,current,none,low,no,Hypotension,breast,II
+187,4986,52,male,former,none,moderate,no,Thyroid,prostate,II
+188,2175,77,female,current,heavy,moderate,yes,Tuberculosis,Mouth,III
+189,5218,26,female,former,none,high,yes,hypertension,lung,IV
+190,826,11,male,never,none,moderate,no,Kidney Disease,skin,IV
+191,6669,79,female,former,heavy,moderate,yes,Asthma,Brain,II
+192,4170,44,male,never,none,high,no,diabetes,skin,IV
+193,8345,38,male,former,light,low,no,Hypotension,lung,II
+194,9905,30,female,current,heavy,low,no,Kidney Disease,Brain,II
+195,5338,55,male,current,moderate,low,no,Asthma,Cervical,II
+196,3405,12,male,never,moderate,moderate,yes,hypertension,Lymph,II
+197,1606,25,male,former,none,high,no,Kidney Disease,ovarian,IV
+198,2706,40,female,former,light,high,no,Stroke,Blood,III
+199,8800,61,male,current,moderate,moderate,yes,Respiratory Diseases,skin,II
+200,589,35,female,never,none,high,yes,Respiratory Diseases,Lymph,IV
+201,6611,59,male,current,heavy,high,no,Hypotension,skin,IV
+202,3512,65,male,former,heavy,moderate,yes,Asthma,colon,III
+203,3952,25,female,never,none,low,no,hypertension,lung,III
+204,3286,20,female,current,light,high,no,diabetes,Cervical,III
+205,5739,10,male,never,moderate,low,yes,diabetes,Brain,III
+206,8288,50,female,current,heavy,high,yes,hypertension,Cervical,III
+207,8519,43,male,former,light,low,yes,Thyroid,lung,I
+208,3356,66,male,former,none,low,yes,Thyroid,colon,II
+209,4950,27,male,former,light,low,yes,Tuberculosis,colon,III
+210,7025,17,female,never,heavy,moderate,no,Thyroid,Blood,III
+211,2366,16,female,former,none,moderate,no,Respiratory Diseases,lung,I
+212,7322,69,male,former,heavy,high,no,Tuberculosis,prostate,IV
+213,5564,77,male,former,heavy,moderate,no,Kidney Disease,Brain,I
+214,9469,7,male,never,moderate,low,no,Respiratory Diseases,Mouth,II
+215,5352,34,male,former,light,high,no,Kidney Disease,Mouth,II
+216,8884,9,female,never,none,low,no,Thyroid,ovarian,I
+217,3030,32,male,current,heavy,high,no,diabetes,skin,III
+218,2311,16,male,never,none,moderate,yes,Respiratory Diseases,skin,III
+219,3089,54,female,never,light,moderate,yes,diabetes,Mouth,I
+220,4484,75,female,former,moderate,low,yes,Asthma,prostate,III
+221,7379,34,female,current,none,moderate,no,Kidney Disease,prostate,IV
+222,2555,74,female,current,none,low,no,Stroke,skin,I
+223,8648,51,female,never,heavy,low,no,Hypotension,skin,IV
+224,917,13,female,former,heavy,high,yes,Tuberculosis,colon,III
+225,4449,53,female,former,moderate,low,yes,Tuberculosis,breast,IV
+226,4122,47,male,current,light,low,no,Hypotension,Blood,III
+227,9750,58,male,current,light,high,yes,Thyroid,prostate,I
+228,3212,48,female,current,moderate,moderate,yes,Tuberculosis,Mouth,I
+229,7471,10,female,current,light,moderate,no,Respiratory Diseases,Mouth,I
+230,6220,74,male,never,light,low,no,Alzheimers disease,skin,III
+231,5658,63,male,never,light,high,yes,Tuberculosis,Blood,II
+232,7429,32,female,former,moderate,low,yes,diabetes,colon,IV
+233,5017,41,female,never,heavy,moderate,yes,hypertension,skin,IV
+234,5758,21,female,current,heavy,low,yes,Asthma,skin,III
+235,2773,50,male,current,light,high,no,Alzheimers disease,ovarian,II
+236,6504,59,female,never,none,moderate,no,Alzheimers disease,Lymph,III
+237,1581,11,female,current,moderate,moderate,no,Alzheimers disease,Brain,IV
+238,1440,26,female,current,none,moderate,yes,Kidney Disease,breast,I
+239,787,21,male,never,none,moderate,no,Alzheimers disease,Blood,II
+240,499,28,female,never,heavy,moderate,no,Asthma,prostate,I
+241,8123,13,female,current,none,high,no,diabetes,Cervical,IV
+242,636,26,male,current,light,moderate,yes,Asthma,ovarian,III
+243,1027,60,male,former,light,high,yes,Asthma,skin,IV
+244,3531,73,female,never,moderate,low,no,Alzheimers disease,Lymph,I
+245,1383,42,male,never,light,moderate,yes,diabetes,lung,III
+246,8794,20,male,former,heavy,low,no,hypertension,Lymph,III
+247,1603,76,male,former,moderate,moderate,yes,Thyroid,Lymph,I
+248,8137,69,female,former,light,high,yes,Alzheimers disease,Cervical,I
+249,6649,25,male,former,light,high,no,Alzheimers disease,colon,III
+250,5427,72,male,former,none,high,no,Asthma,Cervical,IV
+251,2766,63,female,never,heavy,moderate,no,Hypotension,Blood,II
+252,1844,64,female,former,light,moderate,yes,diabetes,Mouth,IV
+253,3602,50,female,never,heavy,low,yes,Hypotension,Blood,IV
+254,1074,5,male,never,moderate,moderate,yes,Alzheimers disease,breast,IV
+255,7944,13,male,former,heavy,low,no,Hypotension,Blood,III
+256,3492,76,female,never,moderate,low,yes,Kidney Disease,skin,II
+257,1263,13,male,never,heavy,moderate,no,Asthma,Brain,III
+258,7443,39,female,never,none,high,no,Thyroid,Blood,III
+259,5382,44,male,current,moderate,moderate,no,Asthma,Mouth,I
+260,3006,20,male,current,light,moderate,no,Tuberculosis,Lymph,I
+261,8059,21,female,current,none,high,no,Alzheimers disease,Cervical,II
+262,6516,61,female,former,none,low,no,Stroke,ovarian,II
+263,364,11,male,never,moderate,high,no,Asthma,Lymph,II
+264,1653,57,female,former,heavy,low,yes,Tuberculosis,breast,IV
+265,1839,28,male,current,none,low,yes,Thyroid,ovarian,II
+266,922,30,male,current,moderate,low,yes,Kidney Disease,skin,III
+267,3837,53,female,former,none,moderate,no,hypertension,lung,II
+268,2916,14,male,current,light,moderate,yes,Asthma,lung,II
+269,928,16,female,never,light,high,no,Tuberculosis,ovarian,II
+270,9868,35,male,never,moderate,moderate,no,Thyroid,breast,III
+271,5070,76,male,never,moderate,moderate,yes,Hypotension,colon,I
+272,1872,9,female,current,moderate,high,yes,Thyroid,Lymph,I
+273,3462,14,male,former,moderate,moderate,yes,Kidney Disease,Lymph,III
+274,4778,79,female,current,heavy,low,no,Respiratory Diseases,prostate,III
+275,917,8,male,never,heavy,moderate,yes,Alzheimers disease,ovarian,III
+276,9803,39,male,current,light,moderate,yes,Respiratory Diseases,Brain,IV
+277,9216,19,male,current,heavy,low,no,Thyroid,prostate,II
+278,6159,61,female,never,heavy,low,no,Asthma,Mouth,II
+279,4404,31,female,former,none,low,no,Respiratory Diseases,Brain,I
+280,7344,71,female,former,heavy,low,yes,Thyroid,prostate,III
+281,9093,62,female,former,none,low,no,Alzheimers disease,colon,IV
+282,5806,7,male,current,light,moderate,no,Asthma,Brain,I
+283,1306,22,female,never,light,moderate,no,Respiratory Diseases,Brain,I
+284,7256,29,female,current,heavy,high,yes,Thyroid,Lymph,II
+285,615,71,female,current,moderate,moderate,yes,Thyroid,Mouth,IV
+286,5376,63,male,former,heavy,moderate,no,hypertension,lung,III
+287,1105,50,female,current,moderate,low,yes,Asthma,ovarian,I
+288,7833,74,male,former,moderate,moderate,yes,Thyroid,breast,III
+289,1449,37,male,former,light,moderate,no,Tuberculosis,lung,III
+290,8261,69,female,never,none,low,yes,Asthma,lung,I
+291,5838,33,male,current,none,moderate,yes,hypertension,lung,I
+292,564,37,male,current,none,high,no,Hypotension,Brain,I
+293,9831,29,male,never,none,high,yes,Asthma,colon,IV
+294,7597,16,female,current,none,moderate,no,Asthma,ovarian,III
+295,5509,11,female,never,heavy,high,yes,hypertension,prostate,IV
+296,9235,66,female,former,heavy,low,yes,diabetes,Blood,III
+297,7349,44,male,former,moderate,moderate,yes,Tuberculosis,colon,II
+298,8507,74,female,former,light,high,yes,Stroke,colon,I
+299,8656,6,male,former,heavy,high,no,Tuberculosis,Lymph,IV
+300,7359,21,female,former,heavy,low,no,Asthma,colon,IV
+301,3756,15,male,former,light,low,yes,Stroke,prostate,III
+302,6158,24,male,current,moderate,high,no,Respiratory Diseases,Mouth,IV
+303,3395,16,female,never,heavy,moderate,yes,hypertension,colon,II
+304,3527,79,female,never,moderate,low,yes,diabetes,skin,IV
+305,2930,35,female,current,heavy,high,yes,Thyroid,breast,I
+306,9367,46,male,former,heavy,high,no,Hypotension,Blood,I
+307,8692,66,male,never,light,low,no,Asthma,lung,IV
+308,3907,47,female,former,none,high,no,Thyroid,prostate,I
+309,2789,35,male,never,light,low,yes,Thyroid,colon,II
+310,3367,52,male,former,heavy,low,no,Asthma,colon,III
+311,6953,31,male,former,moderate,low,no,Asthma,ovarian,I
+312,3466,32,male,never,none,high,yes,Tuberculosis,breast,I
+313,3789,56,male,current,none,low,no,diabetes,skin,II
+314,4650,7,male,current,light,high,no,diabetes,Mouth,IV
+315,345,6,male,former,heavy,high,yes,Alzheimers disease,breast,IV
+316,9602,27,male,current,light,moderate,yes,Thyroid,colon,I
+317,7193,33,female,current,light,low,no,Kidney Disease,Cervical,II
+318,8970,50,female,former,heavy,low,yes,Asthma,Mouth,II
+319,4736,52,male,never,moderate,moderate,no,Kidney Disease,skin,I
+320,5513,54,male,former,none,low,no,Alzheimers disease,Mouth,IV
+321,6842,71,female,former,none,high,yes,Stroke,skin,II
+322,3322,59,male,former,heavy,moderate,yes,Stroke,breast,III
+323,681,22,female,current,heavy,low,yes,Stroke,ovarian,II
+324,4258,66,female,former,light,high,yes,Hypotension,ovarian,I
+325,4269,7,female,never,light,low,yes,Asthma,Brain,II
+326,554,27,male,never,moderate,high,no,Asthma,skin,IV
+327,7459,46,male,former,light,high,yes,Tuberculosis,breast,III
+328,7201,35,male,never,none,high,yes,Asthma,prostate,I
+329,8965,64,male,current,none,low,yes,diabetes,Mouth,I
+330,1049,73,male,never,light,high,yes,diabetes,colon,II
+331,6273,22,male,never,heavy,low,no,hypertension,breast,III
+332,4110,46,male,current,none,moderate,yes,Tuberculosis,breast,II
+333,920,64,female,never,light,low,no,Alzheimers disease,Lymph,III
+334,7169,78,female,current,heavy,high,no,Respiratory Diseases,colon,IV
+335,5265,9,female,current,light,low,no,Hypotension,Brain,IV
+336,2814,67,male,former,heavy,low,yes,Hypotension,Lymph,I
+337,1950,63,female,current,none,moderate,yes,Asthma,Lymph,III
+338,5247,33,female,current,moderate,high,yes,Thyroid,ovarian,III
+339,7955,43,female,former,none,moderate,no,Respiratory Diseases,Cervical,II
+340,381,23,male,current,light,high,yes,Stroke,Brain,III
+341,7516,74,female,never,heavy,moderate,yes,Alzheimers disease,colon,I
+342,7846,46,female,current,moderate,high,no,hypertension,ovarian,I
+343,5552,41,male,current,none,low,no,Kidney Disease,Lymph,III
+344,9300,23,female,current,moderate,high,yes,Stroke,skin,II
+345,9867,58,female,never,heavy,low,no,hypertension,breast,I
+346,8605,25,male,never,none,high,yes,Asthma,colon,II
+347,6317,53,male,never,heavy,moderate,no,Stroke,Lymph,II
+348,653,64,male,current,heavy,low,yes,Asthma,Mouth,II
+349,6761,26,female,current,moderate,low,no,hypertension,Brain,I
+350,6562,58,female,former,heavy,moderate,yes,hypertension,Brain,III
+351,6871,59,female,former,light,high,yes,Kidney Disease,breast,III
+352,4898,14,male,former,none,high,no,hypertension,Lymph,I
+353,5721,33,female,current,none,moderate,yes,Hypotension,Blood,II
+354,9051,19,male,never,moderate,moderate,no,diabetes,lung,III
+355,2081,25,male,current,heavy,low,yes,Hypotension,lung,I
+356,4221,21,male,never,moderate,low,no,Tuberculosis,Brain,IV
+357,1410,52,male,former,heavy,low,no,diabetes,Mouth,IV
+358,3855,40,male,current,light,high,yes,Hypotension,breast,II
+359,3503,66,female,former,none,low,yes,Asthma,Blood,IV
+360,3887,7,male,current,light,moderate,no,Thyroid,breast,I
+361,3217,37,male,never,moderate,high,yes,Alzheimers disease,prostate,II
+362,1229,61,male,current,moderate,low,no,Asthma,Blood,IV
+363,2485,26,female,current,heavy,low,yes,Alzheimers disease,Cervical,III
+364,4641,77,female,former,moderate,moderate,yes,Alzheimers disease,breast,IV
+365,3295,63,male,never,light,moderate,no,Respiratory Diseases,Lymph,IV
+366,6467,5,female,former,moderate,high,yes,Asthma,Blood,I
+367,6235,46,male,current,heavy,high,no,Thyroid,Mouth,III
+368,2086,60,female,never,heavy,high,no,Asthma,Brain,III
+369,6174,64,female,former,light,moderate,yes,Kidney Disease,breast,II
+370,8086,47,female,former,none,high,no,Alzheimers disease,skin,III
+371,855,15,male,former,moderate,moderate,yes,diabetes,Lymph,II
+372,5980,50,female,current,moderate,moderate,no,Asthma,prostate,I
+373,3066,76,female,current,heavy,moderate,no,Hypotension,prostate,IV
+374,7466,49,male,never,none,moderate,yes,Hypotension,Lymph,III
+375,5109,9,female,former,light,high,no,Tuberculosis,skin,II
+376,1994,56,male,never,none,low,yes,hypertension,Lymph,II
+377,8338,54,female,current,light,low,yes,Asthma,Lymph,IV
+378,6266,77,female,former,moderate,high,yes,Kidney Disease,breast,III
+379,5478,35,male,current,light,moderate,no,Stroke,Lymph,III
+380,8667,68,male,current,heavy,moderate,no,Hypotension,Brain,II
+381,1173,37,female,never,moderate,moderate,yes,Tuberculosis,skin,IV
+382,7765,72,male,former,moderate,high,no,Asthma,breast,II
+383,3625,26,female,former,moderate,moderate,no,Respiratory Diseases,skin,III
+384,346,18,male,former,none,moderate,no,Respiratory Diseases,Brain,III
+385,7281,20,female,former,moderate,moderate,yes,Stroke,Brain,II
+386,6969,26,male,former,heavy,high,yes,Asthma,Brain,I
+387,1190,76,female,current,moderate,high,no,Hypotension,Brain,II
+388,3225,46,male,current,light,low,yes,Asthma,Brain,I
+389,3268,45,male,current,none,low,no,Asthma,ovarian,IV
+390,1569,17,male,former,heavy,high,no,Kidney Disease,ovarian,III
+391,4589,38,male,current,heavy,moderate,yes,Stroke,ovarian,III
+392,1529,68,female,current,none,high,yes,Stroke,prostate,I
+393,2530,73,female,current,heavy,moderate,no,Alzheimers disease,Mouth,I
+394,256,28,male,current,moderate,moderate,no,diabetes,prostate,II
+395,9950,70,female,former,none,low,yes,Alzheimers disease,skin,I
+396,2640,79,male,current,moderate,low,yes,Respiratory Diseases,Blood,III
+397,3616,31,male,former,moderate,low,no,Stroke,colon,II
+398,9079,76,male,former,light,moderate,no,Stroke,ovarian,II
+399,1383,9,male,current,none,high,no,Thyroid,Lymph,IV
+400,6579,49,female,never,heavy,high,no,Alzheimers disease,ovarian,II
+401,7715,52,male,current,heavy,low,no,Alzheimers disease,colon,IV
+402,7033,16,male,former,none,low,no,diabetes,lung,I
+403,7323,48,female,never,light,moderate,no,Hypotension,Cervical,III
+404,454,68,male,never,moderate,high,yes,Alzheimers disease,lung,IV
+405,4175,58,female,current,moderate,moderate,no,hypertension,Blood,III
+406,7004,51,male,never,heavy,low,no,diabetes,skin,II
+407,8067,35,female,current,heavy,moderate,yes,Respiratory Diseases,colon,II
+408,6169,35,male,former,heavy,high,no,Alzheimers disease,skin,I
+409,894,53,male,current,moderate,high,no,Stroke,Cervical,II
+410,3121,78,male,current,light,high,yes,Hypotension,Blood,II
+411,8036,13,female,former,moderate,low,yes,Stroke,Mouth,IV
+412,8187,47,female,never,light,low,yes,Respiratory Diseases,lung,IV
+413,6720,15,female,never,heavy,moderate,yes,hypertension,prostate,I
+414,5373,24,male,current,none,moderate,no,Respiratory Diseases,Brain,II
+415,3236,42,female,current,moderate,low,yes,Stroke,breast,IV
+416,4135,29,male,never,heavy,low,no,diabetes,skin,II
+417,3048,71,female,current,moderate,high,no,Thyroid,Cervical,IV
+418,4271,24,male,former,light,moderate,no,Hypotension,Blood,II
+419,6181,61,male,former,moderate,low,no,Asthma,ovarian,I
+420,6334,7,female,former,light,high,no,diabetes,breast,I
+421,800,78,female,never,moderate,low,no,Tuberculosis,prostate,I
+422,3426,6,female,never,light,high,no,Alzheimers disease,lung,III
+423,8005,9,male,former,light,low,yes,Kidney Disease,prostate,IV
+424,1955,53,female,former,none,moderate,no,Thyroid,breast,II
+425,1325,47,female,current,light,low,yes,Alzheimers disease,Mouth,IV
+426,7621,64,male,never,none,moderate,yes,hypertension,lung,II
+427,9375,37,male,never,none,low,no,Thyroid,lung,III
+428,654,14,female,current,light,moderate,yes,Stroke,ovarian,III
+429,295,62,male,former,none,moderate,no,Tuberculosis,ovarian,III
+430,4070,64,female,current,heavy,high,no,Asthma,Blood,I
+431,5237,43,female,current,moderate,low,no,diabetes,breast,I
+432,6973,76,male,former,moderate,high,yes,Kidney Disease,prostate,II
+433,5274,76,female,former,heavy,high,yes,Alzheimers disease,prostate,I
+434,3509,57,male,current,light,low,yes,Tuberculosis,breast,III
+435,4281,79,male,never,none,high,yes,Tuberculosis,prostate,III
+436,9365,65,female,former,heavy,moderate,yes,Alzheimers disease,Cervical,I
+437,2221,61,female,former,heavy,low,no,Stroke,Cervical,I
+438,3450,26,female,current,light,high,no,Stroke,lung,I
+439,5777,52,male,never,light,high,yes,hypertension,prostate,III
+440,5386,36,female,never,moderate,moderate,no,Alzheimers disease,skin,II
+441,2891,43,male,current,heavy,high,no,Alzheimers disease,lung,IV
+442,2040,49,female,current,none,high,no,diabetes,skin,I
+443,8755,13,female,never,moderate,moderate,yes,hypertension,prostate,III
+444,8091,27,female,never,heavy,moderate,yes,Tuberculosis,Brain,II
+445,5407,60,male,current,heavy,low,no,diabetes,Lymph,IV
+446,4014,24,female,current,heavy,low,yes,Stroke,Lymph,I
+447,5455,39,male,never,heavy,low,no,Tuberculosis,Lymph,II
+448,895,56,female,former,heavy,high,yes,Alzheimers disease,lung,IV
+449,4474,72,female,former,light,high,no,Respiratory Diseases,Mouth,III
+450,1240,62,female,current,moderate,high,no,Kidney Disease,skin,III
+451,9737,42,female,current,heavy,low,no,diabetes,skin,III
+452,837,20,female,former,light,high,no,Hypotension,ovarian,I
+453,5245,57,female,current,light,moderate,no,Thyroid,Cervical,I
+454,292,41,female,former,heavy,moderate,yes,Hypotension,skin,I
+455,8903,10,female,never,none,moderate,yes,diabetes,breast,III
+456,6669,17,female,current,moderate,high,no,Asthma,Mouth,II
+457,3950,73,male,never,heavy,low,yes,hypertension,prostate,I
+458,9019,50,male,never,moderate,low,no,Respiratory Diseases,prostate,IV
+459,5855,28,female,current,light,high,no,diabetes,Cervical,IV
+460,6752,79,male,never,moderate,high,no,Asthma,breast,I
+461,3345,31,male,current,none,low,yes,Alzheimers disease,colon,II
+462,4092,59,male,former,heavy,moderate,no,hypertension,Cervical,IV
+463,1636,63,female,former,moderate,moderate,no,Alzheimers disease,Lymph,IV
+464,4952,69,female,current,moderate,moderate,no,Thyroid,ovarian,IV
+465,3679,40,male,former,none,high,yes,Stroke,ovarian,II
+466,8240,67,male,never,heavy,moderate,no,diabetes,skin,I
+467,419,32,female,never,moderate,low,no,Alzheimers disease,Blood,I
+468,5301,23,female,former,none,low,yes,Asthma,Blood,I
+469,9537,17,female,current,none,low,no,Kidney Disease,Mouth,II
+470,1706,19,male,former,moderate,moderate,no,hypertension,Cervical,IV
+471,1793,18,male,current,light,low,no,Tuberculosis,Cervical,IV
+472,2994,13,female,current,heavy,moderate,no,Asthma,Cervical,III
+473,8368,47,female,current,moderate,moderate,no,diabetes,Lymph,III
+474,3650,20,female,former,light,moderate,yes,hypertension,Cervical,III
+475,7453,38,male,never,none,moderate,yes,hypertension,colon,III
+476,8926,42,female,former,moderate,moderate,no,Thyroid,Blood,I
+477,4986,29,female,never,none,moderate,no,Kidney Disease,colon,IV
+478,6178,60,female,former,light,low,yes,Hypotension,Blood,I
+479,8199,33,male,never,moderate,high,no,Stroke,Mouth,II
+480,3716,54,male,current,none,moderate,yes,Thyroid,breast,III
+481,9410,19,male,current,heavy,moderate,no,Kidney Disease,Cervical,I
+482,1665,71,male,current,light,moderate,no,Asthma,Mouth,II
+483,5916,69,male,current,light,low,no,Respiratory Diseases,Lymph,I
+484,4331,61,male,former,heavy,moderate,yes,Stroke,colon,IV
+485,6865,17,male,current,heavy,moderate,no,Respiratory Diseases,lung,I
+486,2147,25,male,never,none,moderate,yes,diabetes,Brain,I
+487,8149,29,female,former,heavy,low,no,Stroke,colon,II
+488,263,44,male,current,moderate,low,yes,hypertension,breast,III
+489,3423,62,female,former,heavy,low,yes,Stroke,colon,IV
+490,6730,54,male,current,light,high,no,diabetes,colon,I
+491,7121,39,female,current,none,high,no,Kidney Disease,Mouth,I
+492,9486,71,male,former,heavy,low,no,Asthma,skin,III
+493,5524,22,male,never,heavy,moderate,yes,hypertension,Brain,I
+494,9774,12,male,former,moderate,moderate,no,diabetes,breast,III
+495,445,33,female,never,none,high,yes,diabetes,Brain,III
+496,9996,23,female,never,moderate,low,yes,hypertension,Cervical,IV
+497,2045,60,female,never,none,moderate,yes,diabetes,colon,II
+498,943,63,female,never,none,moderate,no,Kidney Disease,ovarian,IV
+499,1437,54,male,never,light,low,no,Kidney Disease,prostate,III
+500,3818,69,male,never,moderate,low,yes,Alzheimers disease,Brain,IV
+501,9081,52,female,never,light,high,yes,Stroke,skin,IV
+502,749,67,female,current,heavy,moderate,no,Tuberculosis,prostate,IV
+503,5299,33,male,current,heavy,low,yes,Respiratory Diseases,Blood,II
+504,8169,7,male,former,heavy,moderate,no,Kidney Disease,lung,II
+505,3935,58,female,never,heavy,low,yes,diabetes,Cervical,I
+506,4506,46,female,current,none,moderate,no,Respiratory Diseases,lung,IV
+507,9551,13,male,current,light,low,no,Asthma,breast,I
+508,7718,77,male,never,none,low,no,Kidney Disease,Mouth,IV
+509,4987,12,female,current,heavy,high,no,hypertension,skin,III
+510,9626,8,male,current,none,high,yes,Asthma,lung,III
+511,7702,10,male,never,moderate,low,no,Kidney Disease,colon,III
+512,3872,34,male,current,heavy,low,yes,diabetes,colon,II
+513,3672,8,male,former,light,low,no,Thyroid,lung,III
+514,5773,15,female,former,heavy,moderate,no,hypertension,colon,III
+515,315,31,male,never,light,moderate,yes,diabetes,Cervical,III
+516,8328,14,female,never,heavy,moderate,no,Kidney Disease,colon,I
+517,6313,72,male,former,none,high,yes,Alzheimers disease,prostate,III
+518,6493,18,male,former,heavy,moderate,no,Tuberculosis,colon,IV
+519,5849,40,female,never,light,moderate,no,hypertension,ovarian,IV
+520,6392,7,female,never,moderate,low,no,Tuberculosis,Blood,IV
+521,9212,41,female,current,moderate,moderate,yes,Respiratory Diseases,lung,III
+522,8963,31,female,never,moderate,low,no,Stroke,breast,IV
+523,3968,11,male,former,none,high,yes,Asthma,Blood,II
+524,5577,21,male,never,none,moderate,yes,Asthma,ovarian,I
+525,5991,23,male,former,moderate,high,yes,Asthma,ovarian,III
+526,6840,28,male,former,heavy,high,no,Hypotension,breast,I
+527,530,75,female,current,none,high,no,Stroke,Brain,III
+528,4997,47,female,former,none,low,yes,Alzheimers disease,Lymph,II
+529,1387,57,female,former,heavy,high,no,Stroke,Cervical,I
+530,3307,25,female,never,heavy,moderate,no,Respiratory Diseases,Cervical,III
+531,9554,38,male,never,heavy,moderate,yes,Asthma,lung,IV
+532,298,70,male,never,none,moderate,yes,Thyroid,Blood,III
+533,3074,65,female,current,heavy,high,no,Kidney Disease,skin,II
+534,4409,18,male,never,moderate,low,yes,diabetes,Blood,III
+535,315,53,male,current,none,moderate,no,Kidney Disease,prostate,I
+536,6883,40,female,never,moderate,high,yes,Kidney Disease,prostate,II
+537,8078,42,female,never,light,moderate,no,Asthma,Blood,III
+538,5832,52,male,never,light,moderate,no,Respiratory Diseases,skin,III
+539,7642,12,female,current,light,moderate,yes,Tuberculosis,colon,II
+540,6538,70,female,never,light,moderate,yes,diabetes,prostate,I
+541,7357,15,male,current,none,low,yes,Hypotension,Blood,IV
+542,9636,21,male,former,none,moderate,no,Asthma,prostate,II
+543,6274,71,male,former,moderate,moderate,yes,Thyroid,Lymph,IV
+544,4173,40,male,never,none,low,yes,Respiratory Diseases,Blood,I
+545,9445,43,male,current,light,low,no,diabetes,prostate,III
+546,4954,64,female,current,none,high,yes,Tuberculosis,prostate,III
+547,1590,42,male,former,light,moderate,no,Stroke,Cervical,II
+548,9464,49,female,former,none,high,yes,Alzheimers disease,lung,I
+549,115,10,female,never,heavy,high,no,Kidney Disease,Cervical,I
+550,2574,59,male,never,light,low,no,Asthma,prostate,I
+551,2494,60,female,never,none,high,no,Hypotension,lung,III
+552,1010,55,female,former,moderate,high,no,Alzheimers disease,prostate,II
+553,9903,40,female,never,heavy,low,no,Thyroid,Brain,IV
+554,6140,64,male,never,heavy,high,yes,Tuberculosis,ovarian,I
+555,3582,47,male,current,none,moderate,no,Alzheimers disease,Mouth,II
+556,8516,32,male,former,moderate,low,no,Stroke,skin,II
+557,1162,49,female,never,light,low,no,diabetes,Brain,II
+558,585,64,female,former,light,high,yes,Stroke,prostate,I
+559,985,27,male,never,light,high,no,Asthma,prostate,IV
+560,7359,22,female,current,none,moderate,yes,Tuberculosis,Mouth,II
+561,3269,30,male,current,moderate,low,no,Stroke,Cervical,IV
+562,6279,33,female,current,heavy,moderate,no,Stroke,Mouth,I
+563,3287,77,female,former,heavy,moderate,no,diabetes,ovarian,IV
+564,399,49,male,former,moderate,low,no,Tuberculosis,prostate,IV
+565,6298,42,male,current,moderate,moderate,no,Asthma,lung,IV
+566,4081,10,female,current,moderate,high,yes,Alzheimers disease,breast,IV
+567,3122,15,female,never,none,low,no,Stroke,Brain,III
+568,3850,54,female,never,heavy,low,yes,hypertension,Mouth,I
+569,4786,68,male,current,heavy,moderate,yes,diabetes,prostate,II
+570,6424,63,male,current,moderate,low,yes,Thyroid,Blood,IV
+571,3494,23,male,never,light,high,yes,Hypotension,skin,II
+572,7561,41,male,current,light,moderate,no,Asthma,Blood,III
+573,368,9,female,never,heavy,low,yes,Hypotension,skin,III
+574,6695,74,female,never,heavy,low,no,Alzheimers disease,Mouth,I
+575,8037,74,male,current,moderate,moderate,yes,Respiratory Diseases,Blood,I
+576,1646,78,female,former,moderate,high,no,hypertension,Cervical,II
+577,9575,32,female,never,light,high,yes,Hypotension,lung,IV
+578,2003,57,male,former,light,low,yes,hypertension,Cervical,IV
+579,3039,17,female,current,moderate,low,yes,hypertension,Cervical,I
+580,2363,49,male,current,light,low,no,Alzheimers disease,Blood,I
+581,5575,65,male,former,heavy,high,no,Kidney Disease,skin,II
+582,1191,50,male,former,light,high,no,Tuberculosis,Mouth,II
+583,3163,60,female,former,moderate,low,yes,Stroke,Brain,IV
+584,1876,51,male,current,light,low,yes,hypertension,breast,III
+585,7916,77,male,current,light,moderate,no,Hypotension,Mouth,I
+586,4952,26,female,current,none,low,yes,Thyroid,lung,IV
+587,6779,60,male,never,none,low,yes,diabetes,skin,I
+588,8878,73,male,never,light,high,yes,hypertension,lung,III
+589,8734,10,female,current,none,high,no,Tuberculosis,skin,I
+590,8520,43,female,never,light,high,yes,hypertension,Mouth,III
+591,7952,64,female,current,heavy,low,no,Tuberculosis,prostate,I
+592,2261,75,male,never,heavy,high,yes,Hypotension,ovarian,II
+593,8589,62,male,current,none,high,no,Stroke,ovarian,III
+594,6061,37,female,never,none,low,yes,Kidney Disease,Brain,IV
+595,5283,31,male,former,light,moderate,no,diabetes,lung,II
+596,3179,7,male,current,none,moderate,yes,diabetes,ovarian,I
+597,6336,11,male,current,heavy,moderate,no,hypertension,lung,IV
+598,1631,19,female,current,moderate,low,yes,Stroke,Cervical,II
+599,2534,53,female,former,heavy,low,no,Kidney Disease,Blood,II
+600,7698,68,female,never,light,low,no,diabetes,Lymph,I
+601,9194,13,female,current,moderate,low,no,Asthma,skin,IV
+602,4322,17,male,never,heavy,high,yes,Respiratory Diseases,lung,IV
+603,2010,77,male,former,light,moderate,no,Stroke,Cervical,I
+604,8199,66,male,former,moderate,moderate,no,Thyroid,lung,IV
+605,2438,66,female,never,heavy,high,no,hypertension,Lymph,II
+606,2343,64,female,former,none,high,yes,Thyroid,Lymph,IV
+607,3434,32,male,never,none,high,yes,Hypotension,Mouth,I
+608,2560,42,male,current,moderate,moderate,yes,Alzheimers disease,Lymph,IV
+609,7016,26,male,current,heavy,high,no,Respiratory Diseases,skin,III
+610,6771,65,male,former,moderate,moderate,yes,Asthma,ovarian,IV
+611,9211,51,male,current,moderate,high,no,Thyroid,breast,III
+612,4036,40,female,never,none,moderate,no,Tuberculosis,Cervical,IV
+613,3131,67,male,never,heavy,high,yes,Kidney Disease,lung,II
+614,7071,9,male,never,moderate,moderate,no,hypertension,Mouth,I
+615,7629,31,female,current,light,high,yes,Thyroid,ovarian,IV
+616,2000,79,female,never,light,low,yes,Thyroid,Lymph,I
+617,932,11,female,former,heavy,moderate,no,Kidney Disease,lung,IV
+618,1644,18,male,current,heavy,moderate,yes,diabetes,ovarian,IV
+619,5072,39,female,never,moderate,moderate,yes,hypertension,colon,III
+620,4614,71,female,never,none,moderate,no,diabetes,colon,II
+621,3691,17,male,former,light,moderate,no,Stroke,Cervical,IV
+622,6587,48,female,former,none,moderate,yes,Hypotension,lung,IV
+623,3789,6,female,never,heavy,low,no,Stroke,Lymph,IV
+624,2757,55,male,current,moderate,low,yes,Stroke,Cervical,II
+625,6721,68,male,never,light,high,no,Tuberculosis,Blood,II
+626,4061,6,male,never,heavy,high,no,Stroke,prostate,II
+627,418,21,male,current,none,low,no,hypertension,lung,III
+628,3831,46,male,former,moderate,low,yes,Stroke,Blood,II
+629,9394,74,male,current,light,high,yes,Hypotension,skin,II
+630,7997,40,male,current,none,low,yes,Hypotension,Mouth,I
+631,6425,33,male,never,none,moderate,no,Alzheimers disease,Brain,II
+632,4907,21,male,never,moderate,high,no,Tuberculosis,prostate,II
+633,4379,59,female,current,heavy,high,no,Alzheimers disease,Mouth,II
+634,3520,33,male,current,none,moderate,yes,Kidney Disease,lung,IV
+635,6736,75,female,current,moderate,moderate,no,Stroke,Blood,I
+636,8574,45,male,former,heavy,high,no,Tuberculosis,lung,IV
+637,6870,19,female,never,heavy,moderate,no,Thyroid,Cervical,II
+638,5384,43,male,never,light,low,yes,Hypotension,prostate,IV
+639,8726,75,male,current,heavy,moderate,no,hypertension,colon,III
+640,473,24,male,former,none,moderate,no,hypertension,Lymph,I
+641,272,12,female,never,light,moderate,yes,Alzheimers disease,Brain,I
+642,9795,31,female,current,none,low,yes,Hypotension,lung,I
+643,8930,7,female,former,moderate,high,yes,Tuberculosis,Mouth,I
+644,2724,11,male,former,heavy,high,no,Alzheimers disease,breast,IV
+645,3565,72,male,never,moderate,moderate,no,Kidney Disease,Lymph,I
+646,9263,50,male,current,moderate,high,no,Thyroid,ovarian,II
+647,1593,29,male,never,light,high,yes,Kidney Disease,Brain,IV
+648,4829,62,male,never,none,high,no,hypertension,colon,IV
+649,4171,20,male,former,moderate,high,yes,Stroke,Lymph,IV
+650,8555,76,male,former,light,low,no,Tuberculosis,ovarian,III
+651,1281,59,male,never,heavy,high,yes,hypertension,ovarian,II
+652,233,29,female,current,heavy,high,no,hypertension,ovarian,IV
+653,9104,78,male,former,light,high,no,Respiratory Diseases,colon,I
+654,8810,24,female,never,moderate,low,no,hypertension,ovarian,IV
+655,5308,26,female,never,heavy,high,yes,Asthma,prostate,IV
+656,5886,51,female,former,none,high,yes,hypertension,skin,II
+657,8753,40,male,former,moderate,high,yes,Hypotension,Lymph,II
+658,7237,15,female,former,moderate,moderate,yes,diabetes,Lymph,I
+659,6880,49,female,never,none,low,no,diabetes,Blood,IV
+660,8524,57,male,current,light,high,no,Tuberculosis,Brain,I
+661,9013,64,female,former,none,high,yes,Tuberculosis,Lymph,I
+662,794,52,female,current,heavy,low,yes,hypertension,Brain,II
+663,4651,51,female,never,heavy,low,no,Thyroid,ovarian,I
+664,6203,50,male,never,heavy,low,yes,Tuberculosis,ovarian,IV
+665,8924,33,male,current,light,high,yes,Alzheimers disease,ovarian,III
+666,4477,48,male,former,light,moderate,no,hypertension,prostate,I
+667,6140,11,male,never,light,low,no,Tuberculosis,Mouth,III
+668,7855,20,female,current,none,high,no,Alzheimers disease,ovarian,I
+669,4425,77,female,never,heavy,low,no,Asthma,Mouth,III
+670,2231,75,male,former,heavy,low,no,Tuberculosis,skin,II
+671,4306,25,male,former,none,low,yes,Hypotension,colon,III
+672,200,62,male,current,none,high,no,Tuberculosis,lung,II
+673,4412,15,female,never,heavy,moderate,yes,hypertension,Cervical,I
+674,3739,33,male,former,moderate,moderate,no,Thyroid,Brain,I
+675,5669,46,male,current,none,moderate,no,hypertension,colon,IV
+676,5942,16,female,never,moderate,moderate,yes,Tuberculosis,prostate,III
+677,8374,76,male,current,light,moderate,no,Thyroid,Cervical,IV
+678,6326,58,female,current,moderate,moderate,no,Stroke,Brain,I
+679,6365,17,male,never,moderate,moderate,no,diabetes,Brain,IV
+680,2072,59,female,former,none,low,yes,Tuberculosis,lung,IV
+681,4969,43,female,current,light,low,no,Stroke,skin,II
+682,2951,18,male,never,moderate,moderate,yes,hypertension,ovarian,II
+683,7225,12,male,current,light,moderate,no,diabetes,prostate,III
+684,9632,36,female,never,light,low,yes,Respiratory Diseases,lung,I
+685,5194,50,male,current,moderate,low,yes,Hypotension,Brain,I
+686,8080,32,female,former,moderate,low,no,diabetes,prostate,IV
+687,5687,70,female,current,none,high,yes,Alzheimers disease,colon,II
+688,4171,30,female,former,heavy,high,no,Kidney Disease,lung,I
+689,6271,26,female,current,moderate,moderate,no,hypertension,skin,II
+690,1262,11,male,never,light,high,yes,Tuberculosis,colon,II
+691,9893,41,female,current,light,high,yes,Asthma,skin,I
+692,5741,23,male,former,light,moderate,yes,diabetes,breast,IV
+693,6443,61,female,current,heavy,high,no,Stroke,prostate,I
+694,6280,40,female,never,none,high,yes,Tuberculosis,ovarian,I
+695,420,16,female,never,none,high,no,Alzheimers disease,Brain,III
+696,5174,33,female,never,moderate,high,yes,Kidney Disease,Cervical,II
+697,2970,51,male,former,heavy,high,no,hypertension,prostate,III
+698,2515,10,female,current,light,low,no,diabetes,Brain,III
+699,1968,8,female,former,heavy,moderate,no,Asthma,Brain,I
+700,8968,17,female,former,light,low,yes,Respiratory Diseases,skin,III
+701,1232,59,male,never,heavy,low,no,Thyroid,ovarian,I
+702,7273,25,female,former,heavy,high,no,hypertension,Blood,I
+703,9956,39,male,former,moderate,high,yes,Thyroid,Brain,III
+704,4221,5,male,former,light,low,yes,Asthma,breast,I
+705,2033,18,male,current,light,high,yes,Asthma,ovarian,II
+706,7092,27,male,never,moderate,low,no,Hypotension,colon,III
+707,6281,78,male,former,moderate,high,no,diabetes,colon,IV
+708,2830,19,male,former,none,moderate,no,Kidney Disease,colon,I
+709,375,34,female,former,heavy,low,no,Asthma,Brain,I
+710,3191,69,female,former,moderate,low,yes,Alzheimers disease,skin,IV
+711,4358,15,female,former,none,moderate,yes,Alzheimers disease,skin,I
+712,7561,39,male,current,heavy,moderate,yes,Stroke,colon,I
+713,1683,46,female,former,none,high,no,Asthma,skin,II
+714,6054,68,female,former,none,moderate,yes,Alzheimers disease,Mouth,III
+715,1446,42,female,never,heavy,high,no,Asthma,Blood,IV
+716,9371,61,female,current,light,high,no,Stroke,lung,III
+717,4229,20,male,current,heavy,high,no,Tuberculosis,breast,I
+718,2796,42,male,former,moderate,high,no,Stroke,Blood,III
+719,7555,43,male,former,heavy,high,no,Tuberculosis,Brain,IV
+720,9360,34,male,never,none,moderate,yes,Tuberculosis,lung,III
+721,779,58,male,never,light,low,no,Respiratory Diseases,Mouth,III
+722,7883,71,male,never,light,low,no,Asthma,Brain,II
+723,3125,6,male,current,light,high,no,Hypotension,Blood,II
+724,9853,68,female,current,light,high,no,hypertension,lung,II
+725,5518,12,male,current,none,moderate,yes,Alzheimers disease,Mouth,I
+726,9920,31,male,never,heavy,low,yes,hypertension,Lymph,IV
+727,5151,29,male,never,heavy,low,no,hypertension,prostate,IV
+728,3859,61,male,never,none,high,no,Stroke,Cervical,I
+729,4732,47,male,current,none,moderate,yes,Asthma,prostate,I
+730,8367,35,male,current,moderate,low,no,Alzheimers disease,prostate,II
+731,4298,60,male,former,none,moderate,yes,Respiratory Diseases,colon,I
+732,9093,57,female,never,none,moderate,no,diabetes,Cervical,III
+733,2420,59,male,never,light,low,yes,Stroke,lung,III
+734,6034,69,male,former,none,low,no,Kidney Disease,skin,IV
+735,8391,39,male,current,none,low,no,Hypotension,Brain,IV
+736,5607,22,male,former,light,high,yes,Hypotension,colon,III
+737,4268,54,female,former,none,high,yes,Hypotension,prostate,II
+738,1005,49,female,never,moderate,high,yes,Hypotension,skin,IV
+739,4208,51,female,former,none,moderate,no,diabetes,colon,IV
+740,5641,46,female,current,none,high,yes,Stroke,skin,III
+741,9618,21,female,never,none,high,no,Thyroid,prostate,III
+742,6590,48,female,former,moderate,low,yes,Kidney Disease,colon,II
+743,6087,47,female,former,light,moderate,yes,Alzheimers disease,ovarian,IV
+744,3338,64,female,current,light,low,yes,Thyroid,Mouth,I
+745,7930,14,male,former,heavy,moderate,yes,hypertension,Lymph,III
+746,4013,13,male,former,heavy,low,no,Kidney Disease,colon,II
+747,7718,73,female,current,heavy,low,no,diabetes,lung,II
+748,4597,32,female,never,light,low,no,Respiratory Diseases,lung,II
+749,368,7,male,current,moderate,low,no,Hypotension,Brain,I
+750,4584,44,female,never,heavy,moderate,yes,Hypotension,breast,I
+751,7368,20,female,never,light,moderate,yes,diabetes,lung,III
+752,5418,6,male,current,light,high,no,Respiratory Diseases,prostate,III
+753,6746,28,female,current,light,high,yes,Kidney Disease,ovarian,III
+754,126,71,female,current,light,moderate,no,Kidney Disease,Mouth,IV
+755,5891,43,female,never,light,moderate,no,Respiratory Diseases,lung,I
+756,2349,71,male,former,moderate,low,yes,Kidney Disease,prostate,II
+757,3934,38,female,never,none,high,yes,Hypotension,prostate,I
+758,9339,17,female,current,none,moderate,yes,Asthma,Lymph,II
+759,9908,62,female,current,light,low,yes,Respiratory Diseases,ovarian,III
+760,1800,65,male,former,none,low,yes,Hypotension,skin,IV
+761,8214,28,male,never,moderate,moderate,no,Thyroid,ovarian,IV
+762,204,9,male,current,light,moderate,no,Thyroid,Lymph,II
+763,1853,43,male,never,heavy,high,yes,hypertension,Lymph,I
+764,886,39,male,never,heavy,moderate,yes,Alzheimers disease,Brain,III
+765,4411,24,female,current,light,moderate,no,Stroke,skin,I
+766,9373,72,male,current,heavy,moderate,no,Respiratory Diseases,ovarian,II
+767,9206,14,male,never,none,moderate,yes,diabetes,prostate,I
+768,5353,71,female,current,moderate,low,no,Tuberculosis,Cervical,III
+769,8865,79,male,former,light,low,yes,Kidney Disease,Mouth,II
+770,4357,44,female,never,moderate,low,no,Kidney Disease,Brain,III
+771,7248,76,male,current,light,low,no,Stroke,lung,II
+772,196,10,female,former,none,low,yes,Thyroid,skin,III
+773,7454,32,female,current,light,high,yes,Respiratory Diseases,Cervical,I
+774,4402,12,female,former,none,high,no,diabetes,breast,III
+775,2503,20,female,current,light,moderate,yes,Tuberculosis,Blood,III
+776,4899,53,male,never,light,moderate,no,Thyroid,Lymph,IV
+777,5525,65,male,former,light,high,yes,Thyroid,ovarian,I
+778,3479,20,male,never,none,high,yes,Respiratory Diseases,Lymph,I
+779,5508,43,female,former,moderate,high,yes,Respiratory Diseases,Cervical,IV
+780,5070,22,male,current,none,high,no,hypertension,ovarian,II
+781,6417,5,female,former,light,high,no,Asthma,colon,II
+782,5416,46,male,current,none,moderate,no,Thyroid,breast,II
+783,1243,43,female,never,none,high,yes,Kidney Disease,colon,IV
+784,8513,36,male,never,light,moderate,yes,Kidney Disease,Mouth,IV
+785,2946,13,female,former,heavy,low,yes,hypertension,breast,III
+786,4296,76,female,never,moderate,high,no,Hypotension,Blood,II
+787,9130,38,female,current,moderate,low,yes,Alzheimers disease,breast,I
+788,9059,72,female,current,light,high,no,Asthma,skin,I
+789,1876,30,female,former,moderate,low,yes,hypertension,lung,I
+790,5949,26,female,former,light,high,yes,diabetes,Cervical,I
+791,6472,71,female,former,none,high,no,hypertension,Brain,III
+792,435,40,female,never,moderate,low,no,Hypotension,Blood,I
+793,4291,66,female,current,moderate,high,no,Hypotension,ovarian,II
+794,8723,75,female,never,moderate,high,yes,Thyroid,skin,III
+795,3834,12,male,never,none,low,no,diabetes,Blood,II
+796,673,77,female,former,none,low,no,hypertension,lung,IV
+797,289,14,female,former,none,low,no,Kidney Disease,Cervical,II
+798,4296,55,female,current,light,high,yes,Thyroid,breast,IV
+799,1612,78,male,never,moderate,moderate,yes,Alzheimers disease,Blood,I
+800,6830,31,male,current,none,high,no,Respiratory Diseases,Mouth,I
+801,7732,56,female,former,moderate,high,no,hypertension,Cervical,III
+802,5991,66,female,current,heavy,high,no,diabetes,ovarian,III
+803,9775,6,female,former,moderate,low,no,Stroke,skin,IV
+804,2718,16,female,current,moderate,low,no,Respiratory Diseases,breast,IV
+805,2012,42,male,current,none,low,yes,diabetes,breast,IV
+806,5114,34,male,current,moderate,high,yes,hypertension,prostate,III
+807,7037,20,male,never,moderate,high,no,Asthma,Lymph,IV
+808,3393,79,female,former,light,moderate,yes,Respiratory Diseases,skin,I
+809,5578,47,male,former,moderate,moderate,yes,Alzheimers disease,prostate,III
+810,9458,8,male,former,heavy,moderate,yes,Alzheimers disease,prostate,III
+811,2457,58,female,former,none,high,yes,diabetes,Blood,IV
+812,2968,39,female,never,heavy,low,yes,diabetes,Mouth,I
+813,8966,73,male,current,none,high,no,Alzheimers disease,Cervical,III
+814,2807,30,female,current,light,high,no,Asthma,Brain,IV
+815,5734,71,male,never,light,low,no,Hypotension,Mouth,I
+816,6334,23,female,never,heavy,low,no,Alzheimers disease,Brain,II
+817,8771,26,male,current,light,low,no,Kidney Disease,Brain,I
+818,4712,67,female,current,light,low,yes,Stroke,Brain,II
+819,1840,22,female,never,heavy,low,no,Hypotension,breast,I
+820,9067,53,female,never,light,low,yes,Hypotension,Blood,I
+821,6539,65,male,current,none,high,no,Tuberculosis,lung,IV
+822,2497,6,male,former,light,high,no,Tuberculosis,breast,II
+823,7673,67,male,current,moderate,low,yes,hypertension,lung,II
+824,399,71,male,current,light,low,no,Asthma,colon,I
+825,1501,78,female,never,none,high,yes,Alzheimers disease,lung,II
+826,4455,48,female,never,light,moderate,no,Stroke,ovarian,I
+827,6482,69,male,current,heavy,low,yes,Asthma,Cervical,I
+828,7339,38,male,never,light,moderate,yes,Stroke,colon,IV
+829,5935,47,female,current,heavy,low,yes,diabetes,Blood,III
+830,4765,54,male,former,none,moderate,yes,Tuberculosis,Brain,III
+831,7142,29,male,current,none,moderate,yes,Kidney Disease,Brain,III
+832,1808,28,female,never,heavy,high,no,Kidney Disease,lung,II
+833,5220,74,male,current,light,moderate,yes,Stroke,ovarian,III
+834,4248,64,female,never,none,low,yes,Thyroid,Lymph,II
+835,5273,26,female,former,moderate,low,no,Asthma,Mouth,IV
+836,3367,12,male,never,moderate,high,yes,Tuberculosis,Blood,II
+837,9538,36,female,never,none,high,yes,Respiratory Diseases,Mouth,II
+838,2406,22,male,never,none,low,yes,Thyroid,Lymph,III
+839,8009,47,male,current,light,low,no,Hypotension,Lymph,I
+840,2664,50,female,former,none,moderate,no,Hypotension,Cervical,I
+841,9046,23,male,never,heavy,high,yes,hypertension,breast,III
+842,1405,73,male,former,moderate,moderate,no,hypertension,colon,IV
+843,274,56,female,never,light,low,no,Respiratory Diseases,prostate,II
+844,8288,31,male,former,light,moderate,no,hypertension,ovarian,IV
+845,4623,21,female,former,moderate,moderate,yes,Respiratory Diseases,Blood,I
+846,7661,14,female,current,heavy,high,yes,Tuberculosis,skin,III
+847,2658,72,male,never,none,moderate,no,Alzheimers disease,ovarian,II
+848,850,68,female,current,moderate,high,yes,diabetes,Lymph,III
+849,8643,36,female,never,heavy,low,yes,Thyroid,colon,III
+850,7669,44,female,current,moderate,low,yes,hypertension,Blood,IV
+851,9214,26,female,former,moderate,high,yes,Alzheimers disease,skin,IV
+852,3502,19,male,current,light,low,no,diabetes,prostate,I
+853,7560,12,female,never,moderate,moderate,yes,Tuberculosis,prostate,III
+854,9608,78,female,former,none,low,yes,Respiratory Diseases,breast,III
+855,1978,70,female,former,light,high,yes,Alzheimers disease,Cervical,III
+856,4807,38,male,current,light,moderate,yes,Stroke,colon,I
+857,157,21,female,former,light,low,yes,Respiratory Diseases,Mouth,II
+858,1447,25,female,never,moderate,low,yes,diabetes,lung,I
+859,4204,65,male,never,moderate,low,yes,Tuberculosis,Blood,II
+860,1002,8,male,never,moderate,moderate,no,Asthma,Brain,I
+861,8055,52,male,current,none,moderate,no,Tuberculosis,colon,IV
+862,1931,20,male,former,moderate,moderate,no,Thyroid,colon,II
+863,7572,10,male,former,none,moderate,no,diabetes,Cervical,II
+864,8536,79,male,current,heavy,low,yes,Asthma,colon,III
+865,9210,66,female,current,heavy,high,yes,Thyroid,breast,I
+866,4497,70,female,never,heavy,moderate,no,Thyroid,ovarian,IV
+867,904,14,male,never,light,high,yes,Kidney Disease,Lymph,II
+868,6897,36,male,current,none,low,no,hypertension,prostate,I
+869,8122,63,female,current,moderate,low,no,Kidney Disease,ovarian,IV
+870,5451,14,female,never,none,moderate,yes,Stroke,prostate,IV
+871,8525,9,female,never,none,high,no,Respiratory Diseases,colon,I
+872,1379,23,female,former,light,moderate,yes,Alzheimers disease,lung,IV
+873,6483,50,female,never,moderate,moderate,yes,hypertension,Mouth,I
+874,6392,46,male,former,none,moderate,yes,Thyroid,Mouth,III
+875,4291,14,male,never,heavy,moderate,yes,Asthma,ovarian,III
+876,276,31,female,current,light,low,no,Stroke,Brain,IV
+877,9652,52,male,never,heavy,high,yes,Hypotension,Cervical,III
+878,1576,15,female,current,heavy,high,yes,Thyroid,Brain,III
+879,8122,46,female,never,none,moderate,yes,Hypotension,Lymph,I
+880,9994,63,male,current,heavy,low,no,Alzheimers disease,Blood,I
+881,760,21,female,never,moderate,moderate,yes,Respiratory Diseases,breast,III
+882,4937,41,male,never,light,high,yes,Respiratory Diseases,Brain,II
+883,8097,79,female,never,light,low,yes,Hypotension,colon,I
+884,8198,61,female,never,heavy,high,no,diabetes,colon,III
+885,3549,28,female,current,none,high,no,Respiratory Diseases,colon,I
+886,4324,62,female,never,none,low,yes,hypertension,skin,I
+887,1284,43,female,current,none,moderate,yes,diabetes,Mouth,III
+888,6188,45,female,former,none,moderate,no,diabetes,lung,I
+889,534,12,female,current,none,high,no,Thyroid,ovarian,II
+890,7414,16,male,current,heavy,moderate,no,Asthma,prostate,II
+891,4126,43,male,current,moderate,low,no,Hypotension,lung,IV
+892,6220,23,male,never,moderate,low,no,hypertension,lung,III
+893,9257,11,female,former,light,moderate,yes,Hypotension,colon,I
+894,6358,60,female,current,heavy,low,yes,Kidney Disease,Blood,IV
+895,5164,10,male,former,heavy,moderate,yes,Tuberculosis,Brain,II
+896,3783,43,male,current,moderate,moderate,yes,Stroke,colon,IV
+897,6658,14,female,former,moderate,moderate,yes,Kidney Disease,Blood,II
+898,2386,75,female,never,none,low,no,Stroke,Mouth,IV
+899,2166,42,female,never,light,low,yes,Hypotension,breast,I
+900,6256,35,female,current,heavy,moderate,no,diabetes,Cervical,II
+901,284,11,female,former,none,moderate,no,Stroke,skin,I
+902,1311,58,male,current,light,low,yes,Stroke,skin,IV
+903,140,72,male,former,moderate,low,no,Asthma,Lymph,IV
+904,2206,60,female,current,heavy,moderate,yes,Kidney Disease,skin,I
+905,6158,33,female,never,moderate,low,yes,Respiratory Diseases,Mouth,IV
+906,5571,40,male,never,none,moderate,no,Tuberculosis,breast,III
+907,9790,34,female,current,none,moderate,yes,Stroke,Lymph,III
+908,3541,50,male,current,moderate,moderate,yes,hypertension,skin,II
+909,7769,55,female,former,light,high,no,Asthma,ovarian,III
+910,8027,42,female,never,none,low,no,Respiratory Diseases,Blood,III
+911,7409,66,male,current,heavy,high,yes,Stroke,Mouth,II
+912,5877,28,male,current,moderate,high,yes,hypertension,lung,IV
+913,9129,30,male,current,light,high,no,Tuberculosis,lung,IV
+914,6548,39,female,never,none,high,yes,Kidney Disease,Blood,II
+915,7873,65,male,current,none,low,no,Asthma,lung,I
+916,1102,33,female,current,moderate,low,no,Tuberculosis,Brain,III
+917,5918,51,female,current,light,high,yes,hypertension,colon,III
+918,1267,10,male,never,light,moderate,yes,Hypotension,Mouth,I
+919,667,20,female,current,light,moderate,no,Asthma,colon,I
+920,479,53,male,current,moderate,low,no,hypertension,prostate,II
+921,329,62,male,current,moderate,low,no,Kidney Disease,ovarian,I
+922,5458,17,male,never,none,low,no,Thyroid,ovarian,I
+923,2381,22,female,never,none,moderate,no,Tuberculosis,prostate,II
+924,5914,55,female,never,none,moderate,yes,Thyroid,lung,I
+925,2242,12,female,never,moderate,high,yes,Thyroid,Mouth,I
+926,8737,74,female,current,light,moderate,yes,Respiratory Diseases,lung,II
+927,1632,29,male,former,moderate,low,no,Stroke,Brain,IV
+928,3148,21,male,current,heavy,moderate,no,Hypotension,ovarian,IV
+929,5628,63,female,former,none,moderate,no,Hypotension,skin,II
+930,4464,71,male,current,heavy,moderate,yes,diabetes,Mouth,I
+931,8486,9,male,current,none,high,no,Asthma,Cervical,II
+932,9022,27,male,never,heavy,moderate,yes,Thyroid,Lymph,IV
+933,5874,76,female,current,heavy,high,no,Hypotension,colon,IV
+934,8487,33,male,former,heavy,high,no,Kidney Disease,Blood,I
+935,7446,72,male,never,heavy,high,yes,Respiratory Diseases,lung,II
+936,8453,78,male,current,heavy,high,no,Asthma,ovarian,II
+937,9916,6,male,former,moderate,moderate,yes,Respiratory Diseases,lung,III
+938,6988,51,female,current,light,low,no,Alzheimers disease,prostate,I
+939,8788,22,female,former,none,high,no,Stroke,Brain,III
+940,4952,19,male,never,none,high,yes,hypertension,lung,III
+941,9570,74,female,former,none,high,yes,Thyroid,Cervical,II
+942,2997,12,female,current,heavy,low,yes,Kidney Disease,colon,II
+943,5800,49,male,former,moderate,moderate,no,Hypotension,breast,IV
+944,8558,25,female,current,none,moderate,no,Tuberculosis,Brain,I
+945,3913,20,male,current,heavy,low,no,Thyroid,skin,III
+946,8232,26,male,never,none,low,yes,Asthma,Mouth,III
+947,6481,51,male,current,heavy,low,no,Alzheimers disease,Blood,I
+948,3956,40,male,never,light,moderate,yes,diabetes,lung,IV
+949,518,66,male,current,heavy,low,yes,Kidney Disease,Cervical,I
+950,9294,42,male,former,moderate,low,no,Hypotension,breast,IV
+951,8898,76,female,former,none,low,no,Thyroid,Lymph,II
+952,3487,72,female,never,light,moderate,no,hypertension,Cervical,IV
+953,3439,19,female,former,moderate,moderate,yes,diabetes,Cervical,I
+954,524,71,female,never,none,moderate,yes,hypertension,Brain,I
+955,2982,21,female,former,none,low,yes,Alzheimers disease,Cervical,I
+956,3747,24,male,current,moderate,moderate,no,Respiratory Diseases,Lymph,IV
+957,6576,17,male,former,moderate,moderate,yes,Respiratory Diseases,Blood,IV
+958,4596,72,male,never,light,moderate,yes,diabetes,Brain,II
+959,8750,14,female,current,heavy,moderate,no,Tuberculosis,prostate,III
+960,7543,50,male,never,heavy,moderate,yes,Alzheimers disease,Blood,I
+961,8895,15,male,former,moderate,moderate,no,Stroke,ovarian,II
+962,4029,79,female,former,moderate,high,no,Hypotension,prostate,III
+963,8854,78,male,never,heavy,high,yes,Thyroid,ovarian,IV
+964,1803,57,male,never,moderate,moderate,no,hypertension,Mouth,IV
+965,4694,19,male,never,none,high,yes,Stroke,Mouth,II
+966,5219,25,female,current,moderate,high,yes,Thyroid,colon,III
+967,3463,46,female,never,none,low,yes,Stroke,Cervical,II
+968,280,71,female,current,none,moderate,no,hypertension,prostate,II
+969,2464,14,male,former,light,low,no,Thyroid,Blood,III
+970,5730,13,male,former,moderate,moderate,yes,Alzheimers disease,Blood,I
+971,1030,19,male,former,heavy,high,yes,Thyroid,Brain,II
+972,132,76,male,former,light,low,yes,Asthma,Mouth,I
+973,1814,60,female,former,light,moderate,yes,Thyroid,prostate,IV
+974,2202,49,male,former,none,low,yes,Tuberculosis,Lymph,II
+975,9990,33,female,never,moderate,high,yes,Respiratory Diseases,skin,II
+976,2527,57,female,never,heavy,high,no,Hypotension,Brain,III
+977,3243,49,female,former,none,low,yes,Kidney Disease,prostate,IV
+978,2152,35,male,current,none,moderate,no,Asthma,ovarian,II
+979,4614,55,male,never,light,high,no,Alzheimers disease,Cervical,IV
+980,1274,20,female,current,none,moderate,no,diabetes,Brain,II
+981,1923,6,male,former,heavy,moderate,no,Respiratory Diseases,colon,IV
+982,4778,71,male,current,light,moderate,yes,Alzheimers disease,Brain,I
+983,6671,6,male,current,light,moderate,no,Kidney Disease,lung,III
+984,9628,65,male,never,none,high,yes,Thyroid,skin,III
+985,1538,77,male,never,none,moderate,no,Kidney Disease,colon,IV
+986,1158,17,male,current,light,moderate,yes,hypertension,breast,III
+987,1280,32,female,former,heavy,moderate,yes,Hypotension,Blood,II
+988,2827,17,male,former,moderate,moderate,yes,diabetes,ovarian,I
+989,9546,40,male,current,none,low,no,hypertension,breast,I
+990,4818,68,female,former,none,high,no,Thyroid,Blood,II
+991,1227,40,male,current,heavy,low,no,Stroke,Mouth,III
+992,8453,26,female,former,moderate,moderate,yes,Stroke,lung,I
+993,8244,12,male,never,none,low,no,Kidney Disease,Lymph,II
+994,2547,29,male,former,heavy,high,no,Stroke,colon,I
+995,8299,78,female,current,light,moderate,no,hypertension,breast,IV
+996,7017,17,male,never,none,moderate,yes,Hypotension,Blood,IV
+997,331,12,male,current,heavy,moderate,yes,Stroke,colon,III
+998,9073,72,female,current,light,high,yes,Kidney Disease,prostate,III
+999,1216,79,female,current,moderate,high,no,diabetes,colon,II
