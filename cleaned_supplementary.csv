@@ -17,7 +17,7 @@ Age_at_diagnosis,Gender,Ethnicity,Race,Surgery_type,Diagnosed_before_age_50,Hist
 59,Male,Non-spanish,White,Total proctocolectom,N,"Adenocarcinoma, NOS;",G2,6.2,79,0,N,Y,IIA,B
 63,Male,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,5.0,39,0,Y,Y,IIA,B
 52,Male,Non-spanish,White,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,9.1,49,0,N,N,IIA,B
-64,Male,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,0.8,21,0,N,N,I,A
+64,Male,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,0.8,21,0,N,N,I,A
 64,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G3,3.5,13,6,N,Y,IIIB,C
 83,Female,Non-spanish,Unknown,Total colectomy (rem,N,"Adenocarcinoma, NOS;",G2,5.5,28,0,N,N,IIA,B
 65,Female,Non-spanish,Black,Total colectomy (rem,N,"Adenocarcinoma, NOS;",G2,1.5,25,0,N,N,I,A
@@ -29,7 +29,7 @@ Age_at_diagnosis,Gender,Ethnicity,Race,Surgery_type,Diagnosed_before_age_50,Hist
 68,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,5.6,27,0,N,N,IIA,B
 87,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,5.3,23,0,N,N,I,A
 73,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G3,4.0,22,21,N,Y,IVC,D
-74,Male,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,1.7,15,0,N,Y,I,A
+74,Male,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,1.7,15,0,N,Y,I,A
 41,Male,Non-spanish,White,Subtotal colectomy/h,Y,"Adenocarcinoma, NOS;",G2,3.1,48,0,N,N,IIB,B
 72,Female,Non-spanish,White,Total colectomy (rem,N,"Adenocarcinoma, NOS;",G2,5.7,17,3,N,Y,IIIB,C
 87,Female,Non-spanish,White,Subtotal colectomy/h,N,"Carcinoid tumor, NOS",G2,0.1,17,0,N,N,I,A
@@ -67,7 +67,7 @@ Age_at_diagnosis,Gender,Ethnicity,Race,Surgery_type,Diagnosed_before_age_50,Hist
 61,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,3.3,24,0,N,N,IIA,B
 58,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,4.8,15,3,N,N,IIIA,C
 88,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G3,3.7,15,0,N,N,IIA,B
-46,Female,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,Y,"Adenocarcinoma, NOS;",G2,6.9,55,1,N,Y,IIIB,C
+46,Female,Spanish,White,Subtotal colectomy/h,Y,"Adenocarcinoma, NOS;",G2,6.9,55,1,N,Y,IIIB,C
 44,Female,Non-spanish,Black,Total colectomy (rem,Y,"Adenocarcinoma, NOS;",G2,2.4,64,0,N,N,IIA,B
 50,Female,Non-spanish,Black,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,6.5,18,8,N,Y,IV?,D
 36,Male,Non-spanish,Black,Subtotal colectomy/h,Y,"Adenocarcinoma, NOS;",G2,4.6,16,3,Y,Y,IIIB,C
@@ -83,12 +83,12 @@ Age_at_diagnosis,Gender,Ethnicity,Race,Surgery_type,Diagnosed_before_age_50,Hist
 60,Female,Non-spanish,White,Total proctocolectom,N,"Adenocarcinoma, NOS;",G2,9.5,90,0,N,N,IIB,B
 47,Male,Non-spanish,Black,Subtotal colectomy/h,Y,"Adenocarcinoma, NOS;",G2,1.1,62,1,N,Y,IIIC,C
 66,Male,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,6.6,32,1,N,Y,IIIB,C
-86,Female,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,5.0,17,0,N,N,IIA,B
-58,Male,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,4.0,29,5,Y,Y,IIIC,C
+86,Female,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,5.0,17,0,N,N,IIA,B
+58,Male,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,4.0,29,5,Y,Y,IIIC,C
 76,Male,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,4.5,32,0,N,N,I,A
 44,Male,Non-spanish,White,Total colectomy (rem,Y,"Adenocarcinoma, NOS;",G2,4.0,38,1,Y,N,IIIB,C
 72,Male,Non-spanish,Black,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,2.4,39,1,N,N,IIIA,C
-73,Female,"Spanish, Nos; Hispan",White,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,1.7,35,0,N,N,I,A
+73,Female,Spanish,White,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,1.7,35,0,N,N,I,A
 81,Female,Non-spanish,Black,combination of 50 Pl,N,"Adenocarcinoma, NOS;",G2,4.0,37,0,N,N,IIIC,C
 58,Male,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,3.0,21,0,N,N,IIA,B
 49,Female,Non-spanish,White,Subtotal colectomy/h,Y,"Adenocarcinoma, NOS;",G2,4.0,56,0,N,N,I,A
@@ -106,14 +106,14 @@ Age_at_diagnosis,Gender,Ethnicity,Race,Surgery_type,Diagnosed_before_age_50,Hist
 81,Male,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,1.7,14,0,N,N,I,A
 53,Male,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,9.5,16,3,Y,Y,IVA,D
 79,Male,Non-spanish,Black,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,6.2,13,2,N,Y,IVC,D
-62,Male,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,2.7,13,0,N,N,IIA,B
+62,Male,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,2.7,13,0,N,N,IIA,B
 88,Male,Non-spanish,Black,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,7.0,20,0,N,N,IIIB,C
 59,Male,Non-spanish,White,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,5.7,45,1,N,N,IIIB,C
 67,Female,Non-spanish,White,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,2.6,21,8,N,Y,IIIC,C
 66,Male,Non-spanish,White,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G3,3.4,7,0,N,Y,IIA,B
-57,Male,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,Mucinous adenocarcin,G2,2.2,14,0,N,Y,IIA,B
+57,Male,Spanish,White,Subtotal colectomy/h,N,Mucinous adenocarcin,G2,2.2,14,0,N,Y,IIA,B
 76,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,5.3,38,0,N,N,I,A
-67,Female,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,Mucinous adenocarcin,G2,7.0,18,0,N,N,IIA,B
+67,Female,Spanish,White,Subtotal colectomy/h,N,Mucinous adenocarcin,G2,7.0,18,0,N,N,IIA,B
 75,Male,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,3.3,12,1,N,N,IIIB,C
 84,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,4.0,27,0,Y,N,IIB,B
 67,Male,Non-spanish,White,Total colectomy (rem,N,Mucinous adenocarcin,G3,4.0,26,4,Y,Y,IIIC,C
@@ -136,7 +136,7 @@ Age_at_diagnosis,Gender,Ethnicity,Race,Surgery_type,Diagnosed_before_age_50,Hist
 78,Male,Non-spanish,White,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,5.5,12,0,Y,N,IIA,B
 73,Male,Non-spanish,White,combination of 40 Pl,N,"Adenocarcinoma, NOS;",G2,3.0,13,3,N,Y,IIIC,C
 65,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G3,3.4,26,5,N,Y,IIIB,C
-59,Female,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,7.4,29,3,Y,Y,IIIB,C
+59,Female,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,7.4,29,3,Y,Y,IIIB,C
 72,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,3.2,15,0,N,N,IIA,B
 65,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G3,9.0,21,0,Y,Y,IIA,B
 64,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,3.5,16,0,Y,Y,IIA,B
@@ -144,15 +144,15 @@ Age_at_diagnosis,Gender,Ethnicity,Race,Surgery_type,Diagnosed_before_age_50,Hist
 43,Female,Non-spanish,White,Subtotal colectomy/h,Y,"Adenocarcinoma, NOS;",G2,4.7,25,8,N,Y,IIIC,C
 70,Female,Non-spanish,White,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,4.2,28,0,N,N,IIA,B
 64,Male,Non-spanish,Black,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,3.5,27,2,Y,Y,IVA,D
-67,Male,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G3,9.0,24,6,Y,Y,IVC,D
+67,Male,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G3,9.0,24,6,Y,Y,IVC,D
 71,Female,Non-spanish,Black,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,3.7,28,0,N,N,IIA,B
-71,Male,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,Mucinous adenocarcin,G2,8.0,51,0,N,N,IV?,D
+71,Male,Spanish,White,Subtotal colectomy/h,N,Mucinous adenocarcin,G2,8.0,51,0,N,N,IV?,D
 56,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,2.8,25,1,N,Y,IIIB,C
 73,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,1.2,18,1,Y,Y,IVC,D
 62,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,4.8,11,0,N,N,I,A
 64,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,0.1,19,0,N,N,I,A
 67,Male,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,3.2,12,0,N,N,I,A
-64,Female,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,2.5,29,0,Y,Y,IIIB,C
+64,Female,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,2.5,29,0,Y,Y,IIIB,C
 66,Male,Non-spanish,Black,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,5.4,12,7,Y,N,IIIC,C
 65,Male,Non-spanish,White,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G2,5.4,72,0,N,N,IIIB,C
 78,Male,Non-spanish,White,Subtotal colectomy/h,N,Mucin-producing aden,G2,2.7,24,0,N,N,IIA,B
@@ -175,10 +175,10 @@ Age_at_diagnosis,Gender,Ethnicity,Race,Surgery_type,Diagnosed_before_age_50,Hist
 60,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,1.8,22,3,N,Y,IIIB,C
 46,Male,Non-spanish,White,Subtotal colectomy/h,Y,Villous adenocarcino,G1,8.5,41,1,N,N,IIIB,C
 69,Male,Non-spanish,Black,"Colectomy, NOS",N,Adenocarcinoma in tu,G1,0.4,29,0,N,N,I,A
-67,Male,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,1.8,28,0,N,N,I,A
+67,Male,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,1.8,28,0,N,N,I,A
 57,Male,Non-spanish,Black,Subtotal colectomy/h,N,Adenocarcinoma in ad,G1,6.5,13,0,N,N,I,A
 94,Female,Non-spanish,White,"Partial colectomy, s",N,"Adenocarcinoma, NOS;",G1,2.2,11,0,N,N,I,A
-73,Female,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,0.2,29,1,N,N,IIIA,C
+73,Female,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,0.2,29,1,N,N,IIIA,C
 51,Male,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G3,4.0,21,2,Y,Y,IIIB,C
 46,Female,Non-spanish,White,Subtotal colectomy/h,Y,"Adenocarcinoma, NOS;",G2,9.0,31,0,N,N,IIA,B
 58,Female,Non-spanish,White,Subtotal colectomy/h,N,Mucinous adenocarcin,G3,8.5,21,0,N,Y,IVB,D
@@ -200,11 +200,11 @@ Age_at_diagnosis,Gender,Ethnicity,Race,Surgery_type,Diagnosed_before_age_50,Hist
 72,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,2.2,14,0,N,N,I,A
 61,Male,Non-spanish,White,"Partial colectomy, s",N,Mucinous adenocarcin,G3,6.0,20,1,N,Y,IIIB,C
 69,Male,Non-spanish,White,Total colectomy (rem,N,"Adenocarcinoma, NOS;",G1,5.0,39,3,N,Y,IIIB,C
-71,Female,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,7.0,34,0,N,N,IIA,B
+71,Female,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,7.0,34,0,N,N,IIA,B
 58,Male,Non-spanish,Black,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,5.0,24,3,N,N,IIIB,C
 61,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,4.3,30,0,N,N,I,A
 58,Male,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G4,5.2,42,3,N,Y,IVA,D
-69,Female,"Spanish, Nos; Hispan",White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,7.0,16,0,N,Y,IIA,B
+69,Female,Spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G1,7.0,16,0,N,Y,IIA,B
 86,Female,Non-spanish,Unknown,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G2,4.5,25,0,N,N,I,A
 61,Male,Non-spanish,White,Total colectomy (rem,N,"Adenocarcinoma, NOS;",G2,5.1,37,1,Y,Y,IVA,D
 68,Female,Non-spanish,White,Subtotal colectomy/h,N,"Adenocarcinoma, NOS;",G3,5.8,20,1,N,Y,IIIB,C
