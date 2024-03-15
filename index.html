@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cleaned Data</title>
+</head>
+<body>
+    <h1>Cleaned Patient</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Age at Diagnosis</th>
+                <th>Gender</th>
+                <th>DFS in Months</th>
+                <th>DFS Event</th>
+                <th>Adj Radio</th>
+                <th>Adj Chem</th>
+                <th>Dukes Stage</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for patient in cleaned_patient %}
+            <tr>
+                <td>{{ patient.Patient_ID }}</td>
+                <td>{{ patient.Age_at_diagnosis }}</td>
+                <td>{{ patient.Gender }}</td>
+                <td>{{ patient.DFS_in_months }}</td>
+                <td>{{ patient.DFS_event }}</td>
+                <td>{{ patient.Adj_Radio }}</td>
+                <td>{{ patient.Adj_Chem }}</td>
+                <td>{{ patient.Dukes_Stage }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <h1>Cleaned Supplementary Data</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Age at Diagnosis</th>
+                <th>Gender</th>
+                <th>Ethnicity</th>
+                <th>Race</th>
+                <th>Surgery Type</th>
+                <th>Diagnosed before Age 50</th>
+                <th>Histology</th>
+                <th>Histologic Grade</th>
+                <th>Tumor Size cm</th>
+                <th>Nodes Examined</th>
+                <th>Nodes Positive</th>
+                <th>Perineural Invasion</th>
+                <th>Lymphovascular Invasion</th>
+                <th>TNM Staging</th>
+                <th>Dukes Stage</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for supplementary in cleaned_supplementary %}
+            <tr>
+                <td>{{ supplementary.Patient_ID }}</td>
+                <td>{{ supplementary.Age_at_diagnosis }}</td>
+                <td>{{ supplementary.Gender }}</td>
+                <td>{{ supplementary.Ethnicity }}</td>
+                <td>{{ supplementary.Race }}</td>
+                <td>{{ supplementary.Surgery_type }}</td>
+                <td>{{ supplementary.Diagnosed_before_age_50 }}</td>
+                <td>{{ supplementary.Histology }}</td>
+                <td>{{ supplementary.Histologic_Grade }}</td>
+                <td>{{ supplementary.Tumor_Size_cm }}</td>
+                <td>{{ supplementary.Nodes_examined }}</td>
+                <td>{{ supplementary.Nodes_positive }}</td>
+                <td>{{ supplementary.Perineural_invasion }}</td>
+                <td>{{ supplementary.Lymphovascular_invasion }}</td>
+                <td>{{ supplementary.TNM_Staging }}</td>
+                <td>{{ supplementary.Dukes_Stage }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
