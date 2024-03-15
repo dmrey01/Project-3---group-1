@@ -54,6 +54,7 @@ Folders
    - The Data folder contains the raw data from the provided references as well as information for TNM to Dukes staging.
    - The Project info folder contains the project proposal and a list of researched websites for reference only.
    - The templates folder houses the index.html file.
+
 Files
    - Data_prep.ipynb is the file used to clean the data. This file contains all the steps taken to import the original csv files, transform them, and output them to cleaned csv files.
    -  cleaned_cancer_prediction.csv, cleaned_patient.csv, and cleaned_supplementary.csv are the files created from the Data_prep.ipynb.
