@@ -50,21 +50,21 @@ Applications:
   - The applications used in this project included Pandas, Python, Jupyter Notebook, flask and sqlalchemy.
 
 # Instructions on how to use and interact with the project
-  Folders
+Folders
    - The Data folder contains the raw data from the provided references as well as information for TNM to Dukes staging.
    - The Project info folder contains the project proposal and a list of researched websites for reference only.
    - The templates folder houses the index.html file.
-  Files
-    - Data_prep.ipynb is the file used to clean the data. This file contains all the steps taken to import the original csv files, transform them, and output them to cleaned csv files.
-    -  cleaned_cancer_prediction.csv, cleaned_patient.csv, and cleaned_supplementary.csv are the files created from the Data_prep.ipynb.
-    -  Project3-Group1_Database.sql is the postgress database file with the information from the cleaned csv files.
-    -  Project3-group1_database_query.sql 
-    -  app.py is the flask file that links to the postgres database and html file.
+Files
+   - Data_prep.ipynb is the file used to clean the data. This file contains all the steps taken to import the original csv files, transform them, and output them to cleaned csv files.
+   -  cleaned_cancer_prediction.csv, cleaned_patient.csv, and cleaned_supplementary.csv are the files created from the Data_prep.ipynb.
+   -  Project3-Group1_Database.sql is the postgress database file with the information from the cleaned csv files.
+   -  Project3-group1_database_query.sql 
+   -  app.py is the flask file that links to the postgres database and html file.
         - open in visual studio 
         - open a terminal and run python app.py
         - follow the http://127.0.0.1:5000 link that populates. Three tables populate in the web browser.
         - Note: pip install flask_sqlalchemy will need to be ran to run the app.py file.
-    - retrieving_data_from_database.ipynb is a notebook that is linked to the Postgres database and displays the three tables.
+   - retrieving_data_from_database.ipynb is a notebook that is linked to the Postgres database and displays the three tables.
 
 
 References:
