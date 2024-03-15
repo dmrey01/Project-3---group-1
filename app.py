@@ -38,12 +38,27 @@ class CleanedSupplementary(db.Model):
     TNM_Staging = db.Column(db.String(10), nullable=False)
     Dukes_Stage = db.Column(db.String(2), nullable=False)
 
+class CleanedCancerPrediction(db.Model):  
+    __tablename__= 'cleaned_cancer_prediction'
+    Patient_ID = db.Column(db.Integer, primary_key=True)
+    Age_at_diagnosis = db.Column(db.Integer, nullable=False)
+    Gender = db.Column(db.String(10), nullable=False)
+    Smoking_status = db.Column(db.String(10), nullable=False)
+    Alcohol_intake = db.Column(db.String(10), nullable=False)
+    Physical_activity = db.Column(db.String(10), nullable=False)
+    Family_history = db.Column(db.String(10), nullable=False)
+    Medical_history = db.Column(db.String(30), nullable=False)
+    Cancer_type = db.Column(db.String(10), nullable=False)
+    Cancer_stage = db.Column(db.String(10), nullable=False)
+    Dukes_Stage = db.Column(db.String(10), nullable=False)
+
 @app.route('/')
 def index():
     cleaned_patient = CleanedPatient.query.all()
     cleaned_supplementary = CleanedSupplementary.query.all()
+    cleaned_cancer_prediction = CleanedCancerPrediction.query.all()
     
-    return render_template('index.html', cleaned_patient=cleaned_patient, cleaned_supplementary=cleaned_supplementary)
+    return render_template('index.html', cleaned_patient=cleaned_patient, cleaned_supplementary=cleaned_supplementary, cleaned_cancer_prediction=cleaned_cancer_prediction)
     
 # Run the Flask application
 if __name__ == '__main__':

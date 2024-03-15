@@ -81,5 +81,42 @@
             {% endfor %}
         </tbody>
     </table>
+
+    <h1>Cleaned Cancer Prediction</h1>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Age at Diagnosis</th>
+                <th>Gender</th>
+                <th>Smoking Status</th>
+                <th>Alcohol Intake</th>
+                <th>Physical Activity</th>
+                <th>Family History</th>
+                <th>Medical History</th>
+                <th>Cancer Type</th>
+                <th>Cancer Stage</th>
+                <th>Dukes Stage</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for prediction in cleaned_cancer_prediction %}
+            <tr>
+                <td>{{ prediction.Patient_ID }}</td>
+                <td>{{ prediction.Age_at_diagnosis }}</td>
+                <td>{{ prediction.Gender }}</td>
+                <td>{{ prediction.Smoking_status }}</td>
+                <td>{{ prediction.Alcohol_intake }}</td>
+                <td>{{ prediction.Physical_activit }}</td>
+                <td>{{ prediction.Family_history }}</td>
+                <td>{{ prediction.Medical_history }}</td>
+                <td>{{ prediction.Cancer_type }}</td>
+                <td>{{ prediction.Cancer_stage }}</td>
+                <td>{{ prediction.Dukes_Stage }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
 </body>
 </html>
