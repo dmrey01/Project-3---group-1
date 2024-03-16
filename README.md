@@ -18,7 +18,7 @@ Data Engineering Track
    - Renaming columns to adhere to best practices naming conventions. 
    - Investigating potential data mappings for consistency between different data tables, such as TMN staging and Duke Staging.
    - Utilizing "Text Blob" to standardize specific column data entries, addressing variations like "Spanish, Nos; Hispan" to "Spanish".
-   - aving each cleaned version of the data frames into CSV files.
+   - Having each cleaned version of the data frames into CSV files.
    - Developing an Entity-Relationship Diagram (ERD) for the tables, ensuring alignment with naming conventions, and verifying the Primary Keys corresponded appropriately with each data table.
    
    **DATA LOADING PROCESS:**   
