@@ -1,6 +1,7 @@
 ﻿
--- This is the relationship diagram for Project 3
+-- This is the database queries for Project 3- Group1
 
+-- Create the cleaned_patient table
 CREATE TABLE "cleaned_patient" (
 	
     "Age_at_diagnosis" INTEGER NOT NULL,
@@ -13,6 +14,7 @@ CREATE TABLE "cleaned_patient" (
 	"Patient_ID" SERIAL PRIMARY KEY
  );
  
+-- Copy data from the csv file into the table created for cleaned_patient 
 COPY cleaned_patient (
     "Age_at_diagnosis",
     "Gender",
@@ -23,10 +25,11 @@ COPY cleaned_patient (
     "Dukes_Stage"
 ) FROM 'C:\class\\cleaned_patient.csv' DELIMITER ',' CSV HEADER;
 
-
+-- Run the query to ensure data is populated into the table
 SELECT *
 FROM cleaned_patient
 
+-- Create the cleaned_supplementary table
 CREATE TABLE "cleaned_supplementary" (
     "Age_at_diagnosis" INTEGER NOT NULL,
     "Gender" VARCHAR   NOT NULL,
@@ -46,6 +49,7 @@ CREATE TABLE "cleaned_supplementary" (
 	"Patient_ID" SERIAL PRIMARY KEY
     
 );
+-- Copy data from the csv file into the table created for cleaned_supplementary 
 COPY cleaned_supplementary (
     "Age_at_diagnosis",
     "Gender",
@@ -65,10 +69,11 @@ COPY cleaned_supplementary (
 ) FROM 'C:\class\\cleaned_supplementary.csv' DELIMITER ',' CSV HEADER;
 
 
-
+-- Run query to validated data has been uploaded into the table
 SELECT *
 FROM cleaned_supplementary
 
+-- Create cleaned_cancer_prediction table
 CREATE TABLE "cleaned_cancer_prediction" (
     "Age_at_diagnosis" INTEGER   NOT NULL,
     "Gender" VARCHAR   NOT NULL,
@@ -84,6 +89,7 @@ CREATE TABLE "cleaned_cancer_prediction" (
      
 );
 
+-- Copy data from the csv file into the table created for cleaned_cancer_prediction 
 COPY cleaned_cancer_prediction (
     "Age_at_diagnosis",
     "Gender",
@@ -98,9 +104,7 @@ COPY cleaned_cancer_prediction (
 ) FROM 'C:\class\\cleaned_cancer_prediction.csv' DELIMITER ',' CSV HEADER;
 
 
+--Run query to validate data was loaded accurately into the table
 SELECT *
 FROM cleaned_cancer_prediction
 
-SELECT *
-FROM cleaned_supplementary AS cs
-INNER JOIN cleaned_cancer_prediction AS ccp ON cs.Age_at_diagnosis == ccp.Age_at_diagnosis;
