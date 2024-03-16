@@ -1,4 +1,4 @@
-﻿
+
 -- This is the relationship diagram for Project 3
 
 CREATE TABLE "cleaned_patient" (
@@ -21,7 +21,7 @@ COPY cleaned_patient (
     "Adj_Radio",
     "Adj_Chem",
     "Dukes_Stage"
-) FROM 'C:\\PythonStuff\\Repo\\Project-3---group-1\\cleaned_patient.csv' DELIMITER ',' CSV HEADER;
+) FROM 'C:\class\\cleaned_patient.csv' DELIMITER ',' CSV HEADER;
 
 
 SELECT *
@@ -62,7 +62,7 @@ COPY cleaned_supplementary (
     "Lymphovascular_invasion",
     "TNM_Staging",
     "Dukes_Stage"
-) FROM 'C:\\PythonStuff\\Repo\\Project-3---group-1\\cleaned_supplementary.csv' DELIMITER ',' CSV HEADER;
+) FROM 'C:\class\\cleaned_supplementary.csv' DELIMITER ',' CSV HEADER;
 
 
 
@@ -95,7 +95,7 @@ COPY cleaned_cancer_prediction (
     "Cancer_type",
     "Cancer_stage",
     "Dukes_Stage"
-) FROM 'C:\\PythonStuff\\Repo\\Project-3---group-1\\cleaned_cancer_prediction.csv' DELIMITER ',' CSV HEADER;
+) FROM 'C:\class\\cleaned_cancer_prediction.csv' DELIMITER ',' CSV HEADER;
 
 
 SELECT *
@@ -104,3 +104,5 @@ FROM cleaned_cancer_prediction
 SELECT *
 FROM cleaned_supplementary AS cs
 INNER JOIN cleaned_cancer_prediction AS ccp ON cs.Age_at_diagnosis == ccp.Age_at_diagnosis;
+
+
