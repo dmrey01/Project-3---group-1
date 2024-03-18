@@ -44,6 +44,15 @@ Data Engineering Track
       - The data lacked diversity in data in:
         - Ethnicity was limited to either black or white, or Spanish or non-Spanish and therefore doesn't represent the population as a whole
         - Data representing a diverse age group. Most of the data represented data over 50 years of age and not necessarily younger age groups which trends have shown are alarmingly getting colon cancer.
+               - In response, to most of the data representing the over 50 years.  In early in late 2021 to early 2022, the age guidelines for screening colonoscopies were revised and rarely any earlier unless you 
+                  - had a very strong family history of colon cancer.
+               - Before 2022, colonoscopy screening were recommended at the age of 50 years.  Now screenings commence at age 45 for most individuals, with earlier screenings recommended for those with a family history of colon cancer (starting at age 40 if there's a                         - first or second-degree relative affected). 
+               - Individuals experiencing symptoms may require screenings even earlier. Given these new guideline changes, it's anticipated that significant shifts in the ages reflecting screening rates and colon cancer incidence among younger age groups will be seen.
+               -  However, the data may take several months to a couple of years to become evident.  This is likely the reason why we are not seeing a significant representation of individuals below the age of 50 in our datasets. 
+               - The American Gastroenterological Association (AGA) and several other healthcare organizations are already observing the impact of these changes.  There are several articles highlighting emerging trends in colon cancer among the younger populations. This                   -underscores the importance of proactive measures and revised screening protocols in addressing the evolving landscape of colorectal cancer.
+
+![image](https://github.com/dmrey01/Project-3---group-1/assets/140979441/62c85575-91e0-4469-a716-eb81aad84779)
+
     
    
 **DATABASE:**
