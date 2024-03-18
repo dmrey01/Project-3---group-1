@@ -1,74 +1,87 @@
-# Project-3---group-1
+# PROJECT-3---GROUP-1
 Module 16 Project 3
 Data Engineering Track 
 
-# Overview and Process
-Purpose of the project: The project aims to simulate a real-life scenario for a data engineer, focusing on handling raw healthcare data and executing the ETL process (Extract, Tranform and Load).  
+# PROJECT OVERVIEW & PROCESS
+**PURPOSE OF THE PROJECT:** The project aims to simulate a real-life scenario for a data engineer, focusing on handling raw healthcare data and executing the ETL process (Extract, Transform and Load).
 
-About the dataset: Colorectal Cancer is the second leading cause of Cancer Deaths in the U.S. approximately 150,00 people will be diagnosed this year.
+**ABOUT THE DATA SET:** Colorectal Cancer is the second leading cause of Cancer Deaths in the U.S. approximately 150,00 people will be diagnosed this year.
 
-Steps to Extact and Tranform: 
-- Source datasets and relevant informaiton through web research.  
-- Conduct data analysis 
-- Execute data tranformation processes, which involved: 
-   - Analyzing the content of each file to understand its componets.  
-   - Reviewing the column headers to ensure consistency in naming conventions. 
-   - Importing the data into a dataframe.
-   - Filtering the data to extract the necessary columns across all three datasets. 
+**STEPS TO EXTRACT AND TRANSFORM:**
+- Source datasets and relevant information through web research. 
+- Conduct data analysis
+- Execute data transformation processes, which involved:
+   - Analyzing the content of each file to understand its components. 
+   - Reviewing the column headers to ensure consistency in naming conventions.
+   - Importing the data into a data frame.
+   - Filtering the data to extract the necessary columns across all three datasets.
    - Renaming columns to adhere to best practices naming conventions. 
-   - Investigating potential data mappings for consistency between different data tables , such as TMN staging and Duke Staging.  
-   - Utilizing "Text Blob" to standardize specific column data entries, addressing variation like "Spanish, Nos; Hispan" to "Spanish".
-   - Saving each cleaned version of the dataframes into CSV files.
-   - Developing an Entity-RElationship Diagram (ERD) for the tables, ensuring alignment with naming conventions, and verifying the Primary        Keys corresponded appropriately with each data table. 
+   - Investigating potential data mappings for consistency between different data tables, such as TMN staging and Duke Staging.
+   - Utilizing "Text Blob" to standardize specific column data entries, addressing variations like "Spanish, Nos; Hispan" to "Spanish".
+   - Having each cleaned version of the data frames into CSV files.
+   - Developing an Entity-Relationship Diagram (ERD) for the tables, ensuring alignment with naming conventions, and verifying the Primary Keys corresponded appropriately with each data table.
    
-   Data Loading Process:   
-   - The data loading process involved creating an Entity-RElationship Diagram (ERD) for tables.  The team ensured that the naming convention used in the ERD matched the naming convention of the tables. Additionally, they made sure that the Primary Keys aligned with each data table. 
-   - A database was created using Postgres. Although NoSQL or Mondgo DB could have been used for the non-relation data, the team decided to use      Postgres due to its familiarity and ease of use.    
-   - Aftercreating the database, an SQL query was created for the tables and columns within the tables.  This was done to ensure that they        matched the input file.  
+   **DATA LOADING PROCESS:**   
+   - The data loading process involved creating an Entity-Relationship Diagram (ERD) for tables. The team ensured that the naming convention used in the ERD matched the naming convention of the tables. Additionally, they made sure that the Primary Keys aligned with each 
+     data table. 
+   - A database was created using Postgres. Although NoSQL or MongoDB could have been used for the non-relation data, the team decided to use Postgres due to its familiarity and ease of use.  
+   - After creating the database, an SQL query was created for the tables and columns within the tables. This was done to ensure that they matched the input file.
    - The team then proceeded to upload the three CSV files into the respective database tables. 
-   - To retrieve the data form the Postgres database, Flask-SQLAlchemy was used.  This allowed the team to retrieve data form all three tables. 
-   - FLask_sqlalchemy was utilized to retrieve data from the database and load it onto an application using HTML.    
+   - To retrieve the data from the Postgres database, Flask-SQLAlchemy was used. This allowed the team to retrieve data from all three tables.
+   - FLask_sqlalchemy was utilized to retrieve data from the database and load it onto an application using HTML.  
    
-Data Challenges:
- - One of the challenges encountered during the data loading process was the lack of a primary key related to patient_ID in the                 healthcare. To address this issue, a serial index was created as a primary key during the leading process. 
- - Another challege arose when retrieving data using Flask-SQLAlchemy form Postgres. We learned why it is important to watch your data file      structure. The issue came about when we did not creat a template folder with the HTML file in it to ensure the porper functiong of the       HTML file.                         
+**DATA CHALLENGES:**
+ - One of the challenges encountered during the data loading process was the lack of a primary key in each of the data sets. This is due to the nature of the data which is guarded by HIPPA laws to protect patient privacy and information as an ethical consideration. To 
+   address this issue, a serial index was created as a primary key in the Postgres database to uniquely identify each row of data in all three tables.
+ - Another challenge arose when retrieving data using Flask-SQLAlchemy from Postgres. We learned why it is important to watch your data file structure. The issue came about when we did not create a template folder with the HTML file in it to ensure the proper 
+   functioning of the HTML code.                      
 
-Findings:    
-  - From an ETL (Extract,Transform, Load) perspective, it is crucial to determine the desired output. When starting a project, it is            important to invest time in investigating the best tools to obtain the desired output for each project. 
-  - The team also learned the imporatance of having contingency plans when the data output does not align with expectations. 
-  - Additionally , the team discovered the benefits of using Flask-SQLAlchemy, which integrates Flask with Postgre SQL 
+**FINDINGS:**    
+  - From an ETL (Extract, Transform, Load) perspective, it is crucial to determine the desired output. When starting a project, it is important to invest time in investigating the best tools to obtain the desired output for each project.
+  - The team also learned the importance of having contingency plans when the data output does not align with expectations.
+  - Additionally, the team discovered the benefits of using Flask-SQLAlchemy, which integrates Flask with PostgreSQL
+  - Some of the ethical considerations of the data sets were as follows:
+      - The data lacked diversity in data in:
+        - Ethnicity was limited to either black or white, or Spanish or non-Spanish and therefore doesn't represent the population as a whole
+        - Data representing a diverse age group. Most of the data represented data over 50 years of age and not necessarily younger age groups which trends have shown are alarmingly getting colon cancer.
+           - In response, to most of the data representing the over 50 years.  In early in late 2021 to early 2022, the age guidelines for screening colonoscopies were revised and rarely any earlier unless you had a very strong family history of colon cancer
+           - Before 2022, colonoscopy screening were recommended at the age of 50 years.
+           - Now screenings commence at age 45 for most individuals, with earlier screenings recommended for those with a family history of colon cancer (starting at age 40 if there's a first or second-degree relative affected).
+           - Individuals experiencing symptoms may require screenings even earlier. Given these new guideline changes, it's anticipated that significant shifts in the ages reflecting screening rates and colon cancer incidence among younger age groups will be see
+           - However, the data may take several months to a couple of years to become evident.  This is likely the reason why we are not seeing a significant representation of individuals below the age of 50 in our datasets.
+           - The American Gastroenterological Association (AGA) and several other healthcare organizations are already observing the impact of these changes.
+           - There are several articles highlighting emerging trends in colon cancer among the younger populations.
+           - This underscores the importance of proactive measures and revised screening protocols in addressing the evolving landscape of colorectal cancer.
    
-Database: 
-  - The database used for this project was Postgres  
+**DATABASE:**
+  - The database used for this project was PostgreSQL
    
-New Libraries:   
-  - Two new libraries where utilized in this project, The first one is TextBlob, which was used for spell checking. The second library is        Flask-SQLALchemy, which was used to intregrate Flask with Postgres SQL. 
-    - TextBlob - for spelling checking
-    - Flask-SQLAlchemy - to integrate with FLASK and Prostges SQL   
+**NEW LIBRARIES USED:**  
+   - Two new libraries were used in this project, The first one is TextBlob, which was used for spell-checking. The second library is Flask-SQLALchemy, which was used to integrate Flask with Postgres SQL.
+      - TextBlob - for spelling checking
+      - Flask-SQLAlchemy - to integrate with FLASK and Postgres SQL
 
-Applications:    
-  - The applications used in this project included Pandas, Python, Jupyter Notebook, flask and sqlalchemy.
+**APPLICATIONS:**    
+  - The applications used in this project included Pandas, Python, Jupyter Notebook, flask, and SQLAlchemy.
 
-# Instructions on how to use and interact with the project
-Folders
+# PROJECT FILES/FOLDER BREAKDOWN 
+**FOLDERS**
    - The Data folder contains the raw data from the provided references as well as information for TNM to Dukes staging.
    - The Project info folder contains the project proposal and a list of researched websites for reference only.
    - The templates folder houses the index.html file.
 
-Files
-   - Data_prep.ipynb is the file used to clean the data. This file contains all the steps taken to import the original csv files, transform them, and output them to cleaned csv files.
-   -  cleaned_cancer_prediction.csv, cleaned_patient.csv, and cleaned_supplementary.csv are the files created from the Data_prep.ipynb.
-   -  Project3-Group1_Database.sql is the postgress database file with the information from the cleaned csv files.
-   -  Project3-group1_database_query.sql 
-   -  app.py is the flask file that links to the postgres database and html file.
-        - open in visual studio 
+**FILES**
+   - **Data_prep.ipynb** is the file used to clean the data. This file holds all the steps taken to import the original CSV files, transform them, and output them to cleaned CSV files.
+   -  **cleaned_cancer_prediction.csv**, cleaned_patient.csv, and cleaned_supplementary.csv are the files created from the Data_prep.ipynb.
+   -  **Project3-Group1_Database.sql** is the Postgres database file with the information from the cleaned CSV files.
+   -  **app.py** is the flask file that links to the Postgres database and HTML file.
+        - open in Visual Studio
         - open a terminal and run python app.py
         - follow the http://127.0.0.1:5000 link that populates. Three tables populate in the web browser.
-        - Note: pip install flask_sqlalchemy will need to be ran to run the app.py file.
-   - retrieving_data_from_database.ipynb is a notebook that is linked to the Postgres database and displays the three tables.
+        - **Note:** pip install flask_sqlalchemy will need to be ran to run the app.py file.
+   - **retrieving_data_from_database.ipynb** is a notebook that is linked to the Postgres database and displays the three tables in a pandas Data Frame.
 
-
-References:
+**REFERENCES:**
   - https://www.kaggle.com/datasets/amandam1/colorectal-cancer-patients?resource=download
   - https://figshare.com/search?q=%3Acategory%3A%20%22Cancer%20Diagnosis%22&itemTypes=3
   - https://www.kaggle.com/datasets/omkarm0542/cancer-disease-prediction
