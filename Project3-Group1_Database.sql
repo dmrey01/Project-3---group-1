@@ -100,9 +100,3 @@ COPY cleaned_cancer_prediction (
 
 SELECT *
 FROM cleaned_cancer_prediction
-
-SELECT *
-FROM cleaned_supplementary AS cs
-INNER JOIN cleaned_cancer_prediction AS ccp ON cs.Age_at_diagnosis == ccp.Age_at_diagnosis;
-
-
